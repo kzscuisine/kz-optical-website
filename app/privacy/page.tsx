@@ -1,0 +1,1 @@
+export default function Page(){return <main className="page narrow"><div className="pagehead"><small>CUSTOMER INFORMATION</small><h1>Privacy</h1></div><div className="prose"><p>This page is reserved for the final privacy policy covering customer, prescription, order and website information. The policy will be finalized before public launch.</p></div></main>}

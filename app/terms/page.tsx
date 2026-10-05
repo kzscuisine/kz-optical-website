@@ -1,0 +1,1 @@
+export default function Page(){return <main className="page narrow"><div className="pagehead"><small>CUSTOMER INFORMATION</small><h1>Terms & Conditions</h1></div><div className="prose"><p>Final website, ordering, pricing, payment, prescription, warranty and limitation terms will be inserted here before public launch.</p></div></main>}

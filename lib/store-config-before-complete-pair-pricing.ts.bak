@@ -1,0 +1,42 @@
+export const storeConfig = {
+  currency: "CAD",
+  framePrice: null as number | null,
+  shippingFlatRate: null as number | null,
+  freeShippingThreshold: null as number | null,
+  taxNote: "Taxes are calculated/finalized according to the business setup before launch.",
+  inventoryMode: "availability-on-confirmation" as const,
+  contactEmail: "",
+  businessName: "KZ Optical",
+  region: "British Columbia, Canada",
+};
+export const lensOptions = [
+  {id:"single-vision", name:"Single Vision", price:null as number|null, description:"One prescription across the lens for distance or near vision."},
+  {id:"progressive", name:"Progressive", price:null as number|null, description:"Multiple viewing ranges in one lens without a visible segment line."},
+  {id:"bifocal", name:"Bi-Focal", price:null as number|null, description:"Two distinct viewing powers in one lens."},
+];
+export const lensUpgrades = [
+  {id:"standard", name:"Standard lens", price:null as number|null},
+  {id:"anti-reflective", name:"Anti-reflective coating", price:null as number|null},
+  {id:"photochromic", name:"Photochromic option", price:null as number|null},
+  {id:"polarized", name:"Polarized option", price:null as number|null},
+];
+export function money(v:number|null){return v===null ? "Price to be finalized" : new Intl.NumberFormat("en-CA",{style:"currency",currency:"CAD"}).format(v)}
+
+export const framePrices = {
+  superflexAdult: 99,
+  superflexKids: 89,
+  oneTruePair: 129,
+  nanoVista: 129,
+  stepper: 129,
+};
+
+export function getFramePrice(product: { brand: string; audience?: string }) {
+  if (product.brand === "Superflex Kids" || (product.brand === "Superflex" && product.audience === "Kids")) return framePrices.superflexKids;
+  if (product.brand === "Superflex") return framePrices.superflexAdult;
+  if (product.brand === "One True Pair") return framePrices.oneTruePair;
+  if (product.brand === "Nano Vista") return framePrices.nanoVista;
+  if (product.brand === "Stepper") return framePrices.stepper;
+  return null;
+}
+
+

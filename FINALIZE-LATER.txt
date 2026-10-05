@@ -1,0 +1,19 @@
+KZ Optical customer-ready framework
+==================================
+This build intentionally centralizes unfinished business values in:
+  lib/store-config.ts
+
+Final setup later can update in one pass:
+- frame price(s)
+- lens prices and upgrades
+- shipping/free-shipping thresholds
+- contact email
+- inventory mode
+- final prescription workflow
+
+External/account-dependent launch steps remain separate:
+- payment provider credentials
+- transactional email credentials
+- domain/DNS
+- final legal/compliance wording and policy approval
+- actual product-specific stock/colour/size data and product imagery where needed
