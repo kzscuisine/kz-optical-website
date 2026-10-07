@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
+import SquareSandboxCard from "../../components/square-sandbox-card";
 import Link from "next/link";
 import { useCart } from "../../components/cart-context";
 
@@ -82,10 +83,7 @@ export default function Confirmation() {
           </p>
 
           <p className="fine">
-            No payment will be taken at this testing stage. Payment, shipping,
-            tax and order-email delivery will be connected before public
-            launch.
-          </p>
+            Payment is securely processed by Square.</p>
 
           <div
             style={{
@@ -99,13 +97,9 @@ export default function Confirmation() {
               Back to checkout
             </Link>
 
-            <button
-              className="dark button"
-              type="button"
-              onClick={placeOrder}
-            >
-              Place order
-            </button>
+            
+              <SquareSandboxCard items={order.items} onPaymentSuccess={placeOrder} />
+
           </div>
         </div>
       ) : (
@@ -119,3 +113,11 @@ export default function Confirmation() {
     </main>
   );
 }
+
+
+
+
+
+
+
+
