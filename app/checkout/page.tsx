@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { FormEvent, useState } from "react";
 import { useRouter } from "next/navigation";
@@ -154,6 +154,11 @@ export default function Checkout(){
             )}
           </div>
 
+          <div className="pdSection">
+            <h3>Upload Prescription (Optional)</h3>
+            <p className="fine">PDF, JPG or PNG. Online uploading will be available soon.</p>
+            <input type="file" name="prescriptionFile" accept=".pdf,.jpg,.jpeg,.png" disabled />
+          </div>
           <label>
             Prescription notes
             <textarea
