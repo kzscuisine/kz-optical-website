@@ -77,7 +77,7 @@ export default function SquareSandboxCard({ items, onPaymentSuccess }: { items: 
         },
         body: JSON.stringify({
           sourceId: tokenResult.token,
-          amount: Math.round(orderTotal * 100),
+          amount: 100,
         }),
       });
 
@@ -129,13 +129,14 @@ export default function SquareSandboxCard({ items, onPaymentSuccess }: { items: 
           cursor: paying ? "not-allowed" : "pointer",
         }}
       >
-        {paying ? "Processing..." : `Pay $${orderTotal.toFixed(2)} CAD`}
+        {paying ? "Processing..." : `Pay $1.00 CAD (Test)`}
       </button>
 
       <p style={{ fontSize: 14, marginTop: 16 }}>{status}</p>
     </section>
   );
 }
+
 
 
 
