@@ -1,4 +1,4 @@
-﻿import { NextResponse } from "next/server";
+import { NextResponse } from "next/server";
 import { SquareClient, SquareEnvironment } from "square";
 import { randomUUID } from "crypto";
 import { getProduct } from "../../../lib/products";
@@ -192,7 +192,7 @@ export async function POST(request: Request) {
             "Content-Type": "application/json",
           },
           body: JSON.stringify({
-            from: "KZ Optical Orders <onboarding@resend.dev>",
+            from: "KZ Optical <orders@kzoptical.ca>",
             to: ["kzdknss@gmail.com"],
             subject: `KZ Optical Order ${orderNumber}`,
             html: `
