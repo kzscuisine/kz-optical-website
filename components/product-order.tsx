@@ -7,8 +7,8 @@ export default function ProductOrder({product}:{product:any}){
  const [lens,setLens]=useState("single-vision"); const [upgrade,setUpgrade]=useState("standard");
  const [rx,setRx]=useState("upload-later"); const {add}=useCart(); const router=useRouter();
  function addItem(){const l=lensOptions.find(x=>x.id===lens)!;const u=lensUpgrades.find(x=>x.id===upgrade)!;
- const basePrice=product.price ?? storeConfig.framePrice; const parts=[basePrice,l.price,u.price]; const unitPrice=parts.some(x=>x===null)?null:parts.reduce<number>((a,b)=>a+(b||0),0);
- add({key:crypto.randomUUID(),productId:product.id,name:product.name,brand:product.brand,model:product.model,image:product.image,lens:l.name,upgrade:u.name,prescriptionMethod:rx,qty:1,unitPrice});router.push("/cart")}
+ const basePrice=getFramePrice(product) ?? product.price ?? storeConfig.framePrice; const unitPrice=basePrice===null?null:basePrice+(l.price ?? 0)+(u.price ?? 0);
+ add({key:crypto.randomUUID(),productId:product.id,name:product.name,brand:product.brand,model:product.model,image:product.image,lens:l.name,upgrade:u.name,prescriptionMethod:rx,qty:1,unitPrice,qty:1});router.push("/cart")}
  return <div className="orderPanel">
   <h2>Build your prescription eyewear</h2>
   <label>Lens type<select value={lens} onChange={e=>setLens(e.target.value)}>{lensOptions.map(x=><option key={x.id} value={x.id}>{x.name} — {money(x.price)}</option>)}</select></label>
@@ -22,6 +22,9 @@ export default function ProductOrder({product}:{product:any}){
   <p className="fine">Final prices, availability and prescription handling rules will be activated before public launch.</p>
  </div>
 }
+
+
+
 
 
 
