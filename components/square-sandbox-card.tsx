@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import Script from "next/script";
 import { useEffect, useRef, useState } from "react";
@@ -9,10 +9,26 @@ declare global {
   }
 }
 
-export default function SquareSandboxCard({ items, onPaymentSuccess }: { items: any[]; onPaymentSuccess?: () => void }) {
-  const orderTotal = items.reduce((sum, item) => sum + (item.unitPrice ?? 0) * item.qty, 0);
+export default function SquareSandboxCard({
+  items,
+  customer,
+  rx,
+  onPaymentSuccess,
+}: {
+  items: any[];
+  customer: any;
+  rx: string;
+  onPaymentSuccess?: (result: any) => void;
+}) {
+  const orderTotal = items.reduce(
+    (sum, item) => sum + (item.unitPrice ?? 0) * item.qty,
+    0
+  );
+
   const [sdkReady, setSdkReady] = useState(false);
-  const [status, setStatus] = useState("Loading secure Square payment form...");
+  const [status, setStatus] = useState(
+    "Loading secure Square payment form..."
+  );
   const [paying, setPaying] = useState(false);
   const cardRef = useRef<any>(null);
 
@@ -51,6 +67,7 @@ export default function SquareSandboxCard({ items, onPaymentSuccess }: { items: 
       setStatus("Processing secure payment...");
 
       const tokenResult = await cardRef.current.tokenize();
+
       if (tokenResult.status !== "OK") {
         throw new Error("Square could not tokenize the card.");
       }
@@ -68,6 +85,8 @@ export default function SquareSandboxCard({ items, onPaymentSuccess }: { items: 
         body: JSON.stringify({
           sourceId: tokenResult.token,
           items: secureItems,
+          customer,
+          rx,
         }),
       });
 
@@ -78,33 +97,54 @@ export default function SquareSandboxCard({ items, onPaymentSuccess }: { items: 
       }
 
       setStatus("Payment completed successfully.");
-      onPaymentSuccess?.();
+      onPaymentSuccess?.(result);
     } catch (error) {
       console.error(error);
-      setStatus("Payment failed. Please check your card details and try again.");
+      setStatus(
+        "Payment failed. Please check your card details and try again."
+      );
     } finally {
       setPaying(false);
     }
   }
 
   return (
-    <section style={{ maxWidth: 600, margin: "40px auto", padding: 24, border: "1px solid #ddd" }}>
+    <section
+      style={{
+        maxWidth: 600,
+        margin: "40px auto",
+        padding: 24,
+        border: "1px solid #ddd",
+      }}
+    >
       <Script
         src="https://web.squarecdn.com/v1/square.js"
         strategy="afterInteractive"
         onReady={() => setSdkReady(true)}
       />
+
       <h2>Secure Card Payment</h2>
       <p>Order total: ${orderTotal.toFixed(2)} CAD</p>
+      <p>Shipping: FREE</p>
+
       <div id="square-card-container" style={{ marginTop: 20 }} />
+
       <button
         type="button"
         onClick={makePayment}
         disabled={paying || orderTotal <= 0}
-        style={{ width: "100%", padding: 14, marginTop: 18, cursor: paying ? "not-allowed" : "pointer" }}
+        style={{
+          width: "100%",
+          padding: 14,
+          marginTop: 18,
+          cursor: paying ? "not-allowed" : "pointer",
+        }}
       >
-        {paying ? "Processing..." : `Pay $${orderTotal.toFixed(2)} CAD`}
+        {paying
+          ? "Processing..."
+          : `Pay $${orderTotal.toFixed(2)} CAD`}
       </button>
+
       <p style={{ fontSize: 14, marginTop: 16 }}>{status}</p>
     </section>
   );

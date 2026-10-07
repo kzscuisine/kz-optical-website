@@ -24,7 +24,8 @@ export default function OrderConfirmation() {
         <small>ORDER CONFIRMATION</small>
         <h1>Thank you for your order</h1>
         <p>
-          Your eyewear order has been recorded for this local testing stage.
+          Your payment was completed successfully and your KZ Optical
+          order has been received.
         </p>
       </div>
 
@@ -52,6 +53,8 @@ export default function OrderConfirmation() {
               </b>
               <br />
               {i.lens} · {i.upgrade}
+              <br />
+              Quantity: {i.qty}
             </p>
           ))}
 
@@ -60,8 +63,16 @@ export default function OrderConfirmation() {
             {order.rx || "To be provided separately"}
           </p>
 
+          {typeof order.amount === "number" ? (
+            <p>
+              <b>Amount paid:</b> ${(order.amount / 100).toFixed(2)} CAD
+              <br />
+              <b>Shipping:</b> FREE
+            </p>
+          ) : null}
+
           <p className="fine">
-            This is currently a local test order. No payment has been charged.
+            Please keep your order number for your records.
           </p>
 
           <Link className="dark button" href="/eyeglasses">

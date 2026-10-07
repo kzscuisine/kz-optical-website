@@ -13,19 +13,24 @@ export default function Confirmation() {
 
   useEffect(() => {
     try {
-      setOrder(JSON.parse(sessionStorage.getItem("kzopt-order") || "null"));
+      setOrder(
+        JSON.parse(sessionStorage.getItem("kzopt-order") || "null")
+      );
     } catch {
       setOrder(null);
     }
   }, []);
 
-  function placeOrder() {
+  function placeOrder(paymentResult: any) {
     if (!order) return;
 
     const completedOrder = {
       ...order,
-      orderNumber: "KZO-" + Date.now().toString().slice(-8),
-      submittedAt: new Date().toISOString(),
+      orderNumber: paymentResult.orderNumber,
+      submittedAt: paymentResult.submittedAt,
+      paymentId: paymentResult.paymentId,
+      amount: paymentResult.amount,
+      emailSent: paymentResult.emailSent,
     };
 
     sessionStorage.setItem(
@@ -45,13 +50,14 @@ export default function Confirmation() {
         <h1>Review your eyewear order</h1>
         <p>
           Please check your customer, eyewear and prescription information
-          carefully before placing the order.
+          carefully before payment.
         </p>
       </div>
 
       {order ? (
         <div className="note">
           <h2>Customer</h2>
+
           <p>
             {order.customer?.firstName} {order.customer?.lastName}
             <br />
@@ -64,15 +70,28 @@ export default function Confirmation() {
             ) : null}
           </p>
 
+          <p>
+            {order.customer?.address}
+            <br />
+            {order.customer?.city}, {order.customer?.province}{" "}
+            {order.customer?.postalCode}
+          </p>
+
           <h2>Items</h2>
+
           {order.items?.map((i: any, index: number) => (
-            <div key={i.key || index} style={{ marginBottom: "18px" }}>
+            <div
+              key={i.key || index}
+              style={{ marginBottom: "18px" }}
+            >
               <p>
                 <b>
                   {i.brand} — {i.name}
                 </b>
                 <br />
                 {i.lens} · {i.upgrade}
+                <br />
+                Quantity: {i.qty}
               </p>
             </div>
           ))}
@@ -83,7 +102,8 @@ export default function Confirmation() {
           </p>
 
           <p className="fine">
-            Payment is securely processed by Square.</p>
+            Payment is securely processed by Square.
+          </p>
 
           <div
             style={{
@@ -97,9 +117,12 @@ export default function Confirmation() {
               Back to checkout
             </Link>
 
-            
-              <SquareSandboxCard items={order.items} onPaymentSuccess={placeOrder} />
-
+            <SquareSandboxCard
+              items={order.items}
+              customer={order.customer}
+              rx={order.rx}
+              onPaymentSuccess={placeOrder}
+            />
           </div>
         </div>
       ) : (
@@ -113,11 +136,3 @@ export default function Confirmation() {
     </main>
   );
 }
-
-
-
-
-
-
-
-
