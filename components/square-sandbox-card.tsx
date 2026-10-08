@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import Script from "next/script";
 import { useEffect, useRef, useState } from "react";
@@ -124,7 +124,7 @@ export default function SquareSandboxCard({
       />
 
       <h2>Secure Card Payment</h2>
-      <p>Order total: ${orderTotal.toFixed(2)} CAD</p>
+      <p>Order total: ${(1).toFixed(2)} CAD</p>
       <p>Shipping: FREE</p>
 
       <div id="square-card-container" style={{ marginTop: 20 }} />
@@ -142,7 +142,7 @@ export default function SquareSandboxCard({
       >
         {paying
           ? "Processing..."
-          : `Pay $${orderTotal.toFixed(2)} CAD`}
+          : `Pay $${(1).toFixed(2)} CAD`}
       </button>
 
       <p style={{ fontSize: 14, marginTop: 16 }}>{status}</p>
