@@ -10,10 +10,11 @@
         <a href="/catalogues/nano-indestructible.pdf" target="_blank" rel="noopener noreferrer" className="rounded-xl border p-6 shadow-sm hover:shadow-md"><h2 className="text-xl font-semibold">Nano Indestructible</h2><p className="mt-3 text-sm">View frame catalogue →</p></a>
         <a href="/catalogues/superflex.pdf" target="_blank" rel="noopener noreferrer" className="rounded-xl border p-6 shadow-sm hover:shadow-md"><h2 className="text-xl font-semibold">Superflex</h2><p className="mt-3 text-sm">View frame catalogue →</p></a>
         <a href="/catalogues/superflex-kids.pdf" target="_blank" rel="noopener noreferrer" className="rounded-xl border p-6 shadow-sm hover:shadow-md"><h2 className="text-xl font-semibold">Superflex Kids</h2><p className="mt-3 text-sm">View frame catalogue →</p></a>
-        <a href="/catalogues/superflex-titan.pdf" target="_blank" rel="noopener noreferrer" className="rounded-xl border p-6 shadow-sm hover:shadow-md"><h2 className="text-xl font-semibold">Superflex Titan</h2><p className="mt-3 text-sm">View frame catalogue →</p></a>
+        <a href="https://www.westgroupe.com/CA/catalog/index?brandName=superflex%20titan" target="_blank" rel="noopener noreferrer" className="rounded-xl border p-6 shadow-sm hover:shadow-md"><h2 className="text-xl font-semibold">Superflex Titan</h2><p className="mt-3 text-sm">View frame catalogue →</p></a>
         <a href="/catalogues/stepper.pdf" target="_blank" rel="noopener noreferrer" className="rounded-xl border p-6 shadow-sm hover:shadow-md"><h2 className="text-xl font-semibold">Stepper</h2><p className="mt-3 text-sm">View frame catalogue →</p></a>
         <a href="/catalogues/stepper-sts.pdf" target="_blank" rel="noopener noreferrer" className="rounded-xl border p-6 shadow-sm hover:shadow-md"><h2 className="text-xl font-semibold">Stepper STS</h2><p className="mt-3 text-sm">View frame catalogue →</p></a>
       </div>
     </main>
   );
 }
+
