@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { FormEvent, useState } from "react";
 import { useRouter } from "next/navigation";
@@ -30,20 +30,78 @@ export default function Checkout(){
   const {items}=useCart();
   const router=useRouter();
   const [pdType,setPdType]=useState<"single"|"dual">("single");
+  const [uploading,setUploading]=useState(false);
+  const [uploadError,setUploadError]=useState("");
 
-  function submit(e:FormEvent<HTMLFormElement>){
+  async function submit(e:FormEvent<HTMLFormElement>){
     e.preventDefault();
     const fd=new FormData(e.currentTarget);
     const customer=Object.fromEntries(fd);
+    delete customer.prescriptionFile;
+
+    setUploadError("");
+    const selectedFile=fd.get("prescriptionFile");
+    let prescriptionReference="";
+
+    if(selectedFile instanceof File && selectedFile.size>0){
+      if(selectedFile.size>4*1024*1024){
+        setUploadError("Prescription file must be 4 MB or smaller.");
+        return;
+      }
+
+      setUploading(true);
+      try{
+        const uploadData=new FormData();
+        uploadData.append("prescription",selectedFile);
+
+        const authorizationResponse=await fetch("/api/upload-authorization",{
+          cache:"no-store"
+        });
+        if(!authorizationResponse.ok){
+          throw new Error("Prescription upload authorization unavailable.");
+        }
+        const authorizationData=await authorizationResponse.json();
+        if(typeof authorizationData.token!=="string"){
+          throw new Error("Invalid prescription upload authorization.");
+        }
+
+        const uploadResponse=await fetch("/api/prescription-upload",{
+          method:"POST",
+          headers:{"x-checkout-authorization":authorizationData.token},
+          body:uploadData
+        });
+
+        const uploadResult=await uploadResponse.json();
+
+        if(!uploadResponse.ok || !uploadResult.success){
+          throw new Error(uploadResult.error || "Upload failed.");
+        }
+
+        prescriptionReference=uploadResult.reference;
+      }catch(error){
+        setUploadError(
+          error instanceof Error ? error.message : "Upload failed."
+        );
+        setUploading(false);
+        return;
+      }
+      setUploading(false);
+    }
 
     const rx =
       `OD: SPH ${fd.get("odSph")} CYL ${fd.get("odCyl")} AXIS ${fd.get("odAxis")} ADD ${fd.get("odAdd")} | `+
       `OS: SPH ${fd.get("osSph")} CYL ${fd.get("osCyl")} AXIS ${fd.get("osAxis")} ADD ${fd.get("osAdd")} | `+
       `PD: ${fd.get("pdType")==="dual" ? `OD ${fd.get("pdOD")} / OS ${fd.get("pdOS")}` : fd.get("pd")} | Notes: ${fd.get("rxNotes")||""}`;
 
+    const finalRx=rx + (
+      prescriptionReference
+        ? ` | Private prescription file: ${prescriptionReference}`
+        : ""
+    );
+
     sessionStorage.setItem(
       "kzopt-order",
-      JSON.stringify({customer,items,rx})
+      JSON.stringify({customer,items,rx:finalRx})
     );
 
     router.push("/confirmation");
@@ -156,8 +214,8 @@ export default function Checkout(){
 
           <div className="pdSection">
             <h3>Upload Prescription (Optional)</h3>
-            <p className="fine">PDF, JPG or PNG. Online uploading will be available soon.</p>
-            <input type="file" name="prescriptionFile" accept=".pdf,.jpg,.jpeg,.png" disabled />
+            <p className="fine">Upload PDF, JPG or PNG (maximum 4 MB). Files are stored privately.</p>
+            <input type="file" name="prescriptionFile" accept=".pdf,.jpg,.jpeg,.png" />
           </div>
           <label>
             Prescription notes
@@ -172,7 +230,18 @@ export default function Checkout(){
             I confirm that the prescription information I entered matches the prescription provided to me.
           </label>
 
-          <button className="dark button" type="submit">Review order</button>
+          {uploadError && (
+            <p role="alert" style={{color:"#b91c1c"}}>
+              {uploadError}
+            </p>
+          )}
+          <button
+            className="dark button"
+            type="submit"
+            disabled={uploading}
+          >
+            {uploading ? "Uploading prescription..." : "Review order"}
+          </button>
 
           <style jsx>{`
             .rxTable{
@@ -248,6 +317,8 @@ export default function Checkout(){
     </main>
   );
 }
+
+
 
 
 
