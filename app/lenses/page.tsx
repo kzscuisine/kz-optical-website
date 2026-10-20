@@ -1,5 +1,5 @@
 ﻿import Link from "next/link";
-import { lensOptions, lensUpgrades } from "../../lib/store-config";
+import { lensTypes } from "../../lib/lens-config";
 
 export default function Lenses() {
   return (
@@ -21,7 +21,7 @@ export default function Lenses() {
       <h2 className="sectionTitle">Types of prescription lenses</h2>
 
       <div className="info">
-        {lensOptions.map((option) => (
+        {lensTypes.map((option) => (
           <article key={option.id}>
             <h3>{option.name}</h3>
             <p>{option.description}</p>
@@ -32,13 +32,10 @@ export default function Lenses() {
       <h2 className="sectionTitle">Lens coatings and upgrades</h2>
 
       <div className="info">
-        {lensUpgrades.map((upgrade) => (
-          <article key={upgrade.id}>
-            <h3>{upgrade.name}</h3>
-            <p>
-              Available as an optional lens enhancement when selecting
-              your prescription eyewear.
-            </p>
+        {lensTypes.map((lens) => (
+          <article key={lens.id}>
+            <h3>{lens.name}</h3>
+            <p>Coatings available: {lens.coatings.map((c) => c.name.replace(" (included)", "")).join(", ")}.</p>
           </article>
         ))}
       </div>

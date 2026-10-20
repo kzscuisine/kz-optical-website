@@ -1,13 +1,9 @@
 import { NextResponse } from "next/server";
 import { SquareClient, SquareEnvironment } from "square";
 import { randomUUID } from "crypto";
-import { getProduct } from "../../../lib/products";
-import {
-  getFramePrice,
-  lensOptions,
-  lensUpgrades,
-  storeConfig,
-} from "../../../lib/store-config";
+import { findProduct, findSku } from "../../../lib/catalogue";
+import { framePrice } from "../../../lib/pricing";
+import { lensTypes } from "../../../lib/lens-config";
 
 const square = new SquareClient({
   token: process.env.SQUARE_ACCESS_TOKEN!,
@@ -16,6 +12,7 @@ const square = new SquareClient({
 
 type PaymentItem = {
   productId?: string;
+  sku?: string;
   lens?: string;
   upgrade?: string;
   qty?: number;
@@ -65,13 +62,11 @@ export async function POST(request: Request) {
         );
       }
 
-      const product = getProduct(item.productId);
-      const lens = lensOptions.find((x) => x.name === item.lens);
-      const upgrade = lensUpgrades.find(
-        (x) => x.name === item.upgrade
-      );
+      const product = findProduct(item.productId);
+      const lens = lensTypes.find((x) => x.name === item.lens);
+      const coating = lens?.coatings.find((x) => x.name === item.upgrade);
 
-      if (!product || !lens || !upgrade) {
+      if (!product || !lens || !coating) {
         return NextResponse.json(
           {
             success: false,
@@ -81,8 +76,18 @@ export async function POST(request: Request) {
         );
       }
 
-      const basePrice =
-        getFramePrice(product) ?? storeConfig.framePrice;
+      let skuInfo: ReturnType<typeof findSku> = undefined;
+      if (typeof item.sku === "string" && item.sku) {
+        skuInfo = findSku(product, item.sku);
+        if (!skuInfo) {
+          return NextResponse.json(
+            { success: false, message: "Unknown frame colour or size." },
+            { status: 400 }
+          );
+        }
+      }
+
+      const basePrice = framePrice(product);
 
       if (basePrice === null) {
         return NextResponse.json(
@@ -97,8 +102,8 @@ export async function POST(request: Request) {
 
       const unitCents =
         Math.round(basePrice * 100) +
-        Math.round((lens.price ?? 0) * 100) +
-        Math.round((upgrade.price ?? 0) * 100);
+        Math.round(lens.price * 100) +
+        Math.round(coating.price * 100);
 
       totalCents += unitCents * (item.qty as number);
 
@@ -106,8 +111,11 @@ export async function POST(request: Request) {
         brand: product.brand,
         name: product.name,
         model: product.model,
+        colour: skuInfo ? skuInfo.colour.name : "",
+        size: skuInfo ? skuInfo.size.label : "",
+        sku: skuInfo ? skuInfo.size.sku : "",
         lens: lens.name,
-        upgrade: upgrade.name,
+        upgrade: coating.name,
         qty: item.qty,
         unitCents,
       });
@@ -166,6 +174,9 @@ export async function POST(request: Request) {
               <td style="padding:8px;border:1px solid #ddd;">
                 ${esc(item.brand)} — ${esc(item.name)}
                 ${item.model ? `<br>${esc(item.model)}` : ""}
+                ${item.colour ? `<br>Colour: ${esc(item.colour)}` : ""}
+                ${item.size ? `<br>Size: ${esc(item.size)} mm` : ""}
+                ${item.sku ? `<br>SKU: ${esc(item.sku)}` : ""}
               </td>
               <td style="padding:8px;border:1px solid #ddd;">
                 ${esc(item.lens)}

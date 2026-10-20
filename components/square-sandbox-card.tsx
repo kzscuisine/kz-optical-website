@@ -74,6 +74,7 @@ export default function SquareSandboxCard({
 
       const secureItems = items.map((item) => ({
         productId: item.productId,
+        sku: item.sku,
         lens: item.lens,
         upgrade: item.upgrade,
         qty: item.qty,

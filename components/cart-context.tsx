@@ -1,6 +1,6 @@
 "use client";
 import React,{createContext,useContext,useEffect,useMemo,useState} from "react";
-export type CartItem={key:string;productId:string;name:string;brand:string;model:string;image:string;lens:string;upgrade:string;prescriptionMethod:string;qty:number;unitPrice:number|null};
+export type CartItem={key:string;productId:string;sku?:string;name:string;brand:string;model:string;image:string;lens:string;upgrade:string;prescriptionMethod:string;qty:number;unitPrice:number|null};
 type CartValue={items:CartItem[];add:(i:CartItem)=>void;remove:(key:string)=>void;clear:()=>void;count:number};
 const C=createContext<CartValue|null>(null);
 export function CartProvider({children}:{children:React.ReactNode}){

@@ -1,6 +1,6 @@
 ﻿"use client";
 
-import { FormEvent, useState } from "react";
+import { FormEvent, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { useCart } from "../../components/cart-context";
 
@@ -32,6 +32,8 @@ export default function Checkout(){
   const [pdType,setPdType]=useState<"single"|"dual">("single");
   const [uploading,setUploading]=useState(false);
   const [uploadError,setUploadError]=useState("");
+  const fileRef=useRef<HTMLInputElement>(null);
+  const [fileName,setFileName]=useState("");
 
   async function submit(e:FormEvent<HTMLFormElement>){
     e.preventDefault();
@@ -215,7 +217,12 @@ export default function Checkout(){
           <div className="pdSection">
             <h3>Upload Prescription (Optional)</h3>
             <p className="fine">Upload PDF, JPG or PNG (maximum 4 MB). Files are stored privately.</p>
-            <input type="file" name="prescriptionFile" accept=".pdf,.jpg,.jpeg,.png" />
+            <input type="file" name="prescriptionFile" accept=".pdf,.jpg,.jpeg,.png" ref={fileRef} onChange={(e)=>setFileName(e.target.files?.[0]?.name || "")} />
+            {fileName && (
+              <button type="button" onClick={()=>{ if(fileRef.current) fileRef.current.value=""; setFileName(""); setUploadError(""); }} style={{marginTop:8,background:"none",border:"none",textDecoration:"underline",cursor:"pointer",padding:0,font:"inherit",color:"#b91c1c"}}>
+                Remove selected file ({fileName})
+              </button>
+            )}
           </div>
           <label>
             Prescription notes

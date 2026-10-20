@@ -89,9 +89,17 @@ export default function Confirmation() {
                   {i.brand} — {i.name}
                 </b>
                 <br />
+                {i.model}
+                <br />
                 {i.lens} · {i.upgrade}
                 <br />
                 Quantity: {i.qty}
+                {typeof i.unitPrice === "number" && (
+                  <>
+                    <br />
+                    Price: ${i.unitPrice.toFixed(2)} CAD
+                  </>
+                )}
               </p>
             </div>
           ))}

@@ -1,7 +1,28 @@
 import Link from "next/link";
-export default function CataloguesPage(){return (<main className="mx-auto max-w-6xl px-6 py-16"><div className="mb-12"><p className="mb-3 font-semibold uppercase tracking-widest text-gray-500">KZ Optical Collections</p><h1 className="text-4xl font-bold text-slate-900">Explore Our Eyewear Collections</h1><p className="mt-5 max-w-3xl text-lg text-gray-600">Discover eyewear from our featured brands. Browse styles and find frames that suit you. Availability and final pricing are subject to confirmation.</p><Link href="/eyeglasses" className="mt-7 inline-block rounded-xl bg-slate-900 px-7 py-4 font-semibold text-white">Shop Prescription Eyeglasses →</Link></div><div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3"><a href="https://www.westgroupe.com/CA/catalog/index?brandName=superflex" target="_blank" rel="noopener noreferrer" className="group block rounded-2xl border border-gray-200 bg-white p-8 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"><div className="mb-5 flex h-14 w-14 items-center justify-center rounded-xl bg-slate-100 text-2xl">👓</div><h2 className="text-2xl font-bold text-slate-900">Superflex</h2><p className="mt-3 text-gray-600">Explore frame styles, colours and sizes.</p><p className="mt-6 font-semibold text-slate-900 group-hover:underline">Explore collection →</p></a>
-<a href="https://www.westgroupe.com/CA/catalog/index?brandName=superflex%20kids" target="_blank" rel="noopener noreferrer" className="group block rounded-2xl border border-gray-200 bg-white p-8 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"><div className="mb-5 flex h-14 w-14 items-center justify-center rounded-xl bg-slate-100 text-2xl">👓</div><h2 className="text-2xl font-bold text-slate-900">Superflex Kids</h2><p className="mt-3 text-gray-600">Explore frame styles, colours and sizes.</p><p className="mt-6 font-semibold text-slate-900 group-hover:underline">Explore collection →</p></a>
-<a href="/eyeglasses?brand=Superflex%20Titan" target="_blank" rel="noopener noreferrer" className="group block rounded-2xl border border-gray-200 bg-white p-8 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"><div className="mb-5 flex h-14 w-14 items-center justify-center rounded-xl bg-slate-100 text-2xl">👓</div><h2 className="text-2xl font-bold text-slate-900">Superflex Titan</h2><p className="mt-3 text-gray-600">Explore frame styles, colours and sizes.</p><p className="mt-6 font-semibold text-slate-900 group-hover:underline">Explore collection →</p></a>
-<a href="https://www.westgroupe.com/CA/catalog/index?brandName=stepper" target="_blank" rel="noopener noreferrer" className="group block rounded-2xl border border-gray-200 bg-white p-8 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"><div className="mb-5 flex h-14 w-14 items-center justify-center rounded-xl bg-slate-100 text-2xl">👓</div><h2 className="text-2xl font-bold text-slate-900">Stepper</h2><p className="mt-3 text-gray-600">Explore frame styles, colours and sizes.</p><p className="mt-6 font-semibold text-slate-900 group-hover:underline">Explore collection →</p></a>
-<a href="https://www.westgroupe.com/CA/catalog/index?brandName=otp" target="_blank" rel="noopener noreferrer" className="group block rounded-2xl border border-gray-200 bg-white p-8 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"><div className="mb-5 flex h-14 w-14 items-center justify-center rounded-xl bg-slate-100 text-2xl">👓</div><h2 className="text-2xl font-bold text-slate-900">One True Pair (OTP)</h2><p className="mt-3 text-gray-600">Explore frame styles, colours and sizes.</p><p className="mt-6 font-semibold text-slate-900 group-hover:underline">Explore collection →</p></a>
-<a href="https://www.westgroupe.com/CA/catalog/index?brandName=nano%20vista" target="_blank" rel="noopener noreferrer" className="group block rounded-2xl border border-gray-200 bg-white p-8 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"><div className="mb-5 flex h-14 w-14 items-center justify-center rounded-xl bg-slate-100 text-2xl">👓</div><h2 className="text-2xl font-bold text-slate-900">Nano Vista</h2><p className="mt-3 text-gray-600">Explore frame styles, colours and sizes.</p><p className="mt-6 font-semibold text-slate-900 group-hover:underline">Explore collection →</p></a></div></main>)}
+import { mainCollections } from "../../lib/collections";
+import { catalogue } from "../../lib/catalogue";
+
+export default function CataloguesPage() {
+  return (
+    <main className="page">
+      <div className="pagehead">
+        <small>KZ OPTICAL COLLECTIONS</small>
+        <h1>Explore our eyewear collections</h1>
+        <p>Browse styles from our featured brands and find frames that suit you. Availability is confirmed before your order is fulfilled.</p>
+      </div>
+      <div className="info">
+        {mainCollections.map((c) => {
+          const n = catalogue.filter((p) => c.brands.includes(p.brand)).length;
+          return (
+            <article key={c.slug}>
+              <h2>{c.title}</h2>
+              <p>{c.blurb}</p>
+              <p>{n} models</p>
+              <Link className="dark" href={`/collections/${c.slug}`}>Explore collection →</Link>
+            </article>
+          );
+        })}
+      </div>
+    </main>
+  );
+}
