@@ -66,3 +66,13 @@
 .cardPrice small { display: block; margin: 0; }
 .cardPrice b { display: inline; }
 .cardPrice small:first-child { font-weight: 700; }
+
+
+
+/* Product page two-column layout */
+.productDetail{display:grid!important;grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;gap:36px!important;align-items:start!important}
+.productDetail>div:first-child{grid-column:1!important;grid-row:1!important;min-width:0!important}
+.productDetail>div:nth-child(2){grid-column:2!important;grid-row:1!important;min-width:0!important}
+.productDetail .detailImage{display:block;max-width:100%;width:100%;height:auto;object-fit:contain}
+.productDetail .fine{position:static!important;margin-top:12px!important}
+@media(max-width:768px){.productDetail{grid-template-columns:1fr!important}.productDetail>div:first-child,.productDetail>div:nth-child(2){grid-column:1!important;grid-row:auto!important}}

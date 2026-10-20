@@ -1,0 +1,2528 @@
+﻿{
+    "sfk-346":  [
+                    {
+                        "size":  "45.015130",
+                        "code":  "S304-SFK-346",
+                        "colour":  "AQUA",
+                        "image":  "/westgroupe/SFK-346/881814543743_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015135",
+                        "code":  "S304-SFK-346",
+                        "colour":  "AQUA",
+                        "image":  "/westgroupe/SFK-346/881814543781_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015130",
+                        "code":  "S307-SFK-346",
+                        "colour":  "PURPLE",
+                        "image":  "/westgroupe/SFK-346/881814543668_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015135",
+                        "code":  "S307-SFK-346",
+                        "colour":  "PURPLE",
+                        "image":  "/westgroupe/SFK-346/881814543705_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015130",
+                        "code":  "S308-SFK-346",
+                        "colour":  "FUCHSIA CRYSTAL",
+                        "image":  "/westgroupe/SFK-346/881814543583_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015135",
+                        "code":  "S308-SFK-346",
+                        "colour":  "FUCHSIA CRYSTAL",
+                        "image":  "/westgroupe/SFK-346/881814543620_W00.JPG"
+                    }
+                ],
+    "sfk-295":  [
+                    {
+                        "size":  "48.015125",
+                        "code":  "M403-SFK-295",
+                        "colour":  "MATTE GREY ORANGE",
+                        "image":  "/westgroupe/SFK-295/676190727616_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015130",
+                        "code":  "M403-SFK-295",
+                        "colour":  "MATTE GREY ORANGE",
+                        "image":  "/westgroupe/SFK-295/676190727654_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015125",
+                        "code":  "S301-SFK-295",
+                        "colour":  "NAVY CAMO",
+                        "image":  "/westgroupe/SFK-295/676190727692_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015130",
+                        "code":  "S301-SFK-295",
+                        "colour":  "NAVY CAMO",
+                        "image":  "/westgroupe/SFK-295/676190727739_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015125",
+                        "code":  "S316-SFK-295",
+                        "colour":  "GREEN CAMO",
+                        "image":  "/westgroupe/SFK-295/676190727777_W00.JPG"
+                    }
+                ],
+    "sfk-282":  [
+                    {
+                        "size":  "46.018125",
+                        "code":  "M300-SFK-282",
+                        "colour":  "MATTE BLACK RED",
+                        "image":  "/westgroupe/SFK-282/676190683479_W00.JPG"
+                    }
+                ],
+    "sfk-294":  [
+                    {
+                        "size":  "46.017125",
+                        "code":  "S204-SFK-294",
+                        "colour":  "TURQUOISE ROSE GOLD",
+                        "image":  "/westgroupe/SFK-294/676190708448_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S204-SFK-294",
+                        "colour":  "TURQUOISE ROSE GOLD",
+                        "image":  "/westgroupe/SFK-294/676190708486_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017125",
+                        "code":  "S207-SFK-294",
+                        "colour":  "LAVENDER ROSE GOLD",
+                        "image":  "/westgroupe/SFK-294/676190708523_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S207-SFK-294",
+                        "colour":  "LAVENDER ROSE GOLD",
+                        "image":  "/westgroupe/SFK-294/676190708561_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017125",
+                        "code":  "S209-SFK-294",
+                        "colour":  "FUCHSIA GOLD",
+                        "image":  "/westgroupe/SFK-294/676190708608_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S209-SFK-294",
+                        "colour":  "FUCHSIA GOLD",
+                        "image":  "/westgroupe/SFK-294/676190708646_W00.JPG"
+                    }
+                ],
+    "sfk-290":  [
+                    {
+                        "size":  "46.016125",
+                        "code":  "M316-SFK-290",
+                        "colour":  "MATTE GREEN LEMON",
+                        "image":  "/westgroupe/SFK-290/676190708202_W00.JPG"
+                    }
+                ],
+    "sfk-329":  [
+                    {
+                        "size":  "48.015130",
+                        "code":  "S301-SFK-329",
+                        "colour":  "NAVY BLUE LIME",
+                        "image":  "/westgroupe/SFK-329/676190850147_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S301-SFK-329",
+                        "colour":  "NAVY BLUE LIME",
+                        "image":  "/westgroupe/SFK-329/676190850185_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S303-SFK-329",
+                        "colour":  "GREY RED",
+                        "image":  "/westgroupe/SFK-329/676190850222_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S303-SFK-329",
+                        "colour":  "GREY RED",
+                        "image":  "/westgroupe/SFK-329/676190850260_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S416-SFK-329",
+                        "colour":  "ARMY GREEN TORT",
+                        "image":  "/westgroupe/SFK-329/676190850307_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S416-SFK-329",
+                        "colour":  "ARMY GREEN TORT",
+                        "image":  "/westgroupe/SFK-329/676190850345_W00.JPG"
+                    }
+                ],
+    "sfk-342":  [
+                    {
+                        "size":  "48.015130",
+                        "code":  "S309-SFK-342",
+                        "colour":  "PEACH SHIMMER",
+                        "image":  "/westgroupe/SFK-342/676190895148_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S309-SFK-342",
+                        "colour":  "PEACH SHIMMER",
+                        "image":  "/westgroupe/SFK-342/676190895186_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S401-SFK-342",
+                        "colour":  "PERIWINKLE SHIMMER",
+                        "image":  "/westgroupe/SFK-342/676190895063_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S401-SFK-342",
+                        "colour":  "PERIWINKLE SHIMMER",
+                        "image":  "/westgroupe/SFK-342/676190895100_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S407-SFK-342",
+                        "colour":  "MAUVE SKY",
+                        "image":  "/westgroupe/SFK-342/676190894981_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S407-SFK-342",
+                        "colour":  "MAUVE SKY",
+                        "image":  "/westgroupe/SFK-342/676190895025_W00.JPG"
+                    }
+                ],
+    "sfk-328":  [
+                    {
+                        "size":  "48.016130",
+                        "code":  "S404-SFK-328",
+                        "colour":  "AQUA PERIWINKLE",
+                        "image":  "/westgroupe/SFK-328/676190838961_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016135",
+                        "code":  "S404-SFK-328",
+                        "colour":  "AQUA PERIWINKLE",
+                        "image":  "/westgroupe/SFK-328/676190839005_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "S407-SFK-328",
+                        "colour":  "MAUVE TEAL",
+                        "image":  "/westgroupe/SFK-328/676190839128_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016135",
+                        "code":  "S407-SFK-328",
+                        "colour":  "MAUVE TEAL",
+                        "image":  "/westgroupe/SFK-328/676190839166_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "S410-SFK-328",
+                        "colour":  "RASPBERRY SUNSET",
+                        "image":  "/westgroupe/SFK-328/676190839043_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016135",
+                        "code":  "S410-SFK-328",
+                        "colour":  "RASPBERRY SUNSET",
+                        "image":  "/westgroupe/SFK-328/676190839081_W00.JPG"
+                    }
+                ],
+    "sfk-345":  [
+                    {
+                        "size":  "44.016120",
+                        "code":  "S400-SFK-345",
+                        "colour":  "BLACK GREY CHECK",
+                        "image":  "/westgroupe/SFK-345/881814543422_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S400-SFK-345",
+                        "colour":  "BLACK GREY CHECK",
+                        "image":  "/westgroupe/SFK-345/881814543460_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S407-SFK-345",
+                        "colour":  "PURPLE CHECK",
+                        "image":  "/westgroupe/SFK-345/881814543507_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S407-SFK-345",
+                        "colour":  "PURPLE CHECK",
+                        "image":  "/westgroupe/SFK-345/881814543545_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S408-SFK-345",
+                        "colour":  "FUCHSIA CHECK",
+                        "image":  "/westgroupe/SFK-345/881814543347_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S408-SFK-345",
+                        "colour":  "FUCHSIA CHECK",
+                        "image":  "/westgroupe/SFK-345/881814543385_W00.JPG"
+                    }
+                ],
+    "sfk-301":  [
+                    {
+                        "size":  "44.015120",
+                        "code":  "S307-SFK-301",
+                        "colour":  "LILAC SHIMMER",
+                        "image":  "/westgroupe/SFK-301/676190736021_W00.JPG"
+                    },
+                    {
+                        "size":  "46.015125",
+                        "code":  "S307-SFK-301",
+                        "colour":  "LILAC SHIMMER",
+                        "image":  "/westgroupe/SFK-301/676190736069_W00.JPG"
+                    },
+                    {
+                        "size":  "44.015120",
+                        "code":  "S401-SFK-301",
+                        "colour":  "COBALT PINK",
+                        "image":  "/westgroupe/SFK-301/676190736106_W00.JPG"
+                    },
+                    {
+                        "size":  "46.015125",
+                        "code":  "S401-SFK-301",
+                        "colour":  "COBALT PINK",
+                        "image":  "/westgroupe/SFK-301/676190736144_W00.JPG"
+                    },
+                    {
+                        "size":  "44.015120",
+                        "code":  "S416-SFK-301",
+                        "colour":  "MINT APRICOT SHIMMER",
+                        "image":  "/westgroupe/SFK-301/676190736182_W00.JPG"
+                    },
+                    {
+                        "size":  "46.015125",
+                        "code":  "S416-SFK-301",
+                        "colour":  "MINT APRICOT SHIMMER",
+                        "image":  "/westgroupe/SFK-301/676190736229_W00.JPG"
+                    }
+                ],
+    "sfk-327":  [
+                    {
+                        "size":  "45.017125",
+                        "code":  "S401-SFK-327",
+                        "colour":  "INDIGO ROSE",
+                        "image":  "/westgroupe/SFK-327/676190838565_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "S401-SFK-327",
+                        "colour":  "INDIGO ROSE",
+                        "image":  "/westgroupe/SFK-327/676190838602_W00.JPG"
+                    },
+                    {
+                        "size":  "45.017125",
+                        "code":  "S407-SFK-327",
+                        "colour":  "MAUVE CORAL",
+                        "image":  "/westgroupe/SFK-327/676190838480_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "S407-SFK-327",
+                        "colour":  "MAUVE CORAL",
+                        "image":  "/westgroupe/SFK-327/676190838527_W00.JPG"
+                    },
+                    {
+                        "size":  "45.017125",
+                        "code":  "S409-SFK-327",
+                        "colour":  "STRAWBERRY LEMON",
+                        "image":  "/westgroupe/SFK-327/676190838640_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "S409-SFK-327",
+                        "colour":  "STRAWBERRY LEMON",
+                        "image":  "/westgroupe/SFK-327/676190838688_W00.JPG"
+                    }
+                ],
+    "sfk-326":  [
+                    {
+                        "size":  "47.015130",
+                        "code":  "M300-SFK-326",
+                        "colour":  "MATTE BLACK YELLOW",
+                        "image":  "/westgroupe/SFK-326/676190838725_W00.JPG"
+                    },
+                    {
+                        "size":  "49.015135",
+                        "code":  "M300-SFK-326",
+                        "colour":  "MATTE BLACK YELLOW",
+                        "image":  "/westgroupe/SFK-326/676190838763_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S301-SFK-326",
+                        "colour":  "BLUE",
+                        "image":  "/westgroupe/SFK-326/676190838800_W00.JPG"
+                    },
+                    {
+                        "size":  "49.015135",
+                        "code":  "S301-SFK-326",
+                        "colour":  "BLUE",
+                        "image":  "/westgroupe/SFK-326/676190838848_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S303-SFK-326",
+                        "colour":  "GREY RED",
+                        "image":  "/westgroupe/SFK-326/676190838886_W00.JPG"
+                    },
+                    {
+                        "size":  "49.015135",
+                        "code":  "S303-SFK-326",
+                        "colour":  "GREY RED",
+                        "image":  "/westgroupe/SFK-326/676190838923_W00.JPG"
+                    }
+                ],
+    "sfk-335":  [
+                    {
+                        "size":  "46.018130",
+                        "code":  "S300-SFK-335",
+                        "colour":  "BLACK",
+                        "image":  "/westgroupe/SFK-335/881814536721_W00.JPEG"
+                    },
+                    {
+                        "size":  "48.018135",
+                        "code":  "S300-SFK-335",
+                        "colour":  "BLACK",
+                        "image":  "/westgroupe/SFK-335/881814536769_W00.JPEG"
+                    },
+                    {
+                        "size":  "46.018130",
+                        "code":  "S303-SFK-335",
+                        "colour":  "GREY",
+                        "image":  "/westgroupe/SFK-335/881814536882_W00.JPEG"
+                    },
+                    {
+                        "size":  "48.018135",
+                        "code":  "S303-SFK-335",
+                        "colour":  "GREY",
+                        "image":  "/westgroupe/SFK-335/881814536929_W00.JPEG"
+                    },
+                    {
+                        "size":  "46.018130",
+                        "code":  "S304-SFK-335",
+                        "colour":  "TEAL",
+                        "image":  "/westgroupe/SFK-335/881814536806_W00.JPEG"
+                    },
+                    {
+                        "size":  "48.018135",
+                        "code":  "S304-SFK-335",
+                        "colour":  "TEAL",
+                        "image":  "/westgroupe/SFK-335/881814536844_W00.JPEG"
+                    }
+                ],
+    "sfk-344":  [
+                    {
+                        "size":  "47.017130",
+                        "code":  "S400-SFK-344",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-344/881814543101_W00.JPG"
+                    },
+                    {
+                        "size":  "49.017135",
+                        "code":  "S400-SFK-344",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-344/881814543149_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "S401-SFK-344",
+                        "colour":  "NAVY",
+                        "image":  "/westgroupe/SFK-344/881814543187_W00.JPG"
+                    },
+                    {
+                        "size":  "49.017135",
+                        "code":  "S401-SFK-344",
+                        "colour":  "NAVY",
+                        "image":  "/westgroupe/SFK-344/881814543224_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "S416-SFK-344",
+                        "colour":  "FOREST GREEN",
+                        "image":  "/westgroupe/SFK-344/881814543262_W00.JPG"
+                    },
+                    {
+                        "size":  "49.017135",
+                        "code":  "S416-SFK-344",
+                        "colour":  "FOREST GREEN",
+                        "image":  "/westgroupe/SFK-344/881814543309_W00.JPG"
+                    }
+                ],
+    "sfk-291":  [
+                    {
+                        "size":  "46.016125",
+                        "code":  "S304-SFK-291",
+                        "colour":  "TEAL PINK",
+                        "image":  "/westgroupe/SFK-291/676190692310_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "S304-SFK-291",
+                        "colour":  "TEAL PINK",
+                        "image":  "/westgroupe/SFK-291/676190692358_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S307-SFK-291",
+                        "colour":  "PURPLE SKY",
+                        "image":  "/westgroupe/SFK-291/676190692396_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "S307-SFK-291",
+                        "colour":  "PURPLE SKY",
+                        "image":  "/westgroupe/SFK-291/676190692433_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S316-SFK-291",
+                        "colour":  "MINT CORAL",
+                        "image":  "/westgroupe/SFK-291/676190692471_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "S316-SFK-291",
+                        "colour":  "MINT CORAL",
+                        "image":  "/westgroupe/SFK-291/676190692518_W00.JPG"
+                    }
+                ],
+    "sfk-340":  [
+                    {
+                        "size":  "45.017125",
+                        "code":  "S304-SFK-340",
+                        "colour":  "AQUA SKY",
+                        "image":  "/westgroupe/SFK-340/676190895803_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "S304-SFK-340",
+                        "colour":  "AQUA SKY",
+                        "image":  "/westgroupe/SFK-340/676190895841_W00.JPG"
+                    },
+                    {
+                        "size":  "45.017125",
+                        "code":  "S307-SFK-340",
+                        "colour":  "LAVENDER MAUVE",
+                        "image":  "/westgroupe/SFK-340/676190895889_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "S307-SFK-340",
+                        "colour":  "LAVENDER MAUVE",
+                        "image":  "/westgroupe/SFK-340/676190895926_W00.JPG"
+                    },
+                    {
+                        "size":  "45.017125",
+                        "code":  "S309-SFK-340",
+                        "colour":  "ROSE PEACH",
+                        "image":  "/westgroupe/SFK-340/676190895964_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "S309-SFK-340",
+                        "colour":  "ROSE PEACH",
+                        "image":  "/westgroupe/SFK-340/676190896008_W00.JPG"
+                    }
+                ],
+    "sfk-242":  [
+                    {
+                        "size":  "49.017135",
+                        "code":  "S401-SFK-242",
+                        "colour":  "BLUE ORANGE",
+                        "image":  "/westgroupe/SFK-242/676190467970_W00.JPG"
+                    },
+                    {
+                        "size":  "49.017135",
+                        "code":  "S403-SFK-242",
+                        "colour":  "GREY BLUE",
+                        "image":  "/westgroupe/SFK-242/676190468052_W00.JPG"
+                    }
+                ],
+    "sfk-313":  [
+                    {
+                        "size":  "47.016125",
+                        "code":  "S300-SFK-313",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-313/676190772012_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "S300-SFK-313",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-313/676190772050_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016125",
+                        "code":  "S301-SFK-313",
+                        "colour":  "NAVY ORANGE",
+                        "image":  "/westgroupe/SFK-313/676190771930_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "S301-SFK-313",
+                        "colour":  "NAVY ORANGE",
+                        "image":  "/westgroupe/SFK-313/676190771978_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016125",
+                        "code":  "S316-SFK-313",
+                        "colour":  "FOREST LEMON",
+                        "image":  "/westgroupe/SFK-313/676190771855_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "S316-SFK-313",
+                        "colour":  "FOREST LEMON",
+                        "image":  "/westgroupe/SFK-313/676190771893_W00.JPG"
+                    }
+                ],
+    "sfk-284":  [
+                    {
+                        "size":  "46.016125",
+                        "code":  "M100-SFK-284",
+                        "colour":  "BLACK YELLOW",
+                        "image":  "/westgroupe/SFK-284/676190691931_W00.JPG"
+                    }
+                ],
+    "sfk-333":  [
+                    {
+                        "size":  "44.016120",
+                        "code":  "S400-SFK-333",
+                        "colour":  "BLACK LIME GREY",
+                        "image":  "/westgroupe/SFK-333/676190893755_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S401-SFK-333",
+                        "colour":  "NAVY YELLOW SKY",
+                        "image":  "/westgroupe/SFK-333/676190893830_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S406-SFK-333",
+                        "colour":  "BURGUNDY BLUE",
+                        "image":  "/westgroupe/SFK-333/676190893915_W00.JPG"
+                    }
+                ],
+    "sfk-318":  [
+                    {
+                        "size":  "48.017125",
+                        "code":  "M300-SFK-318",
+                        "colour":  "MATTE BLACK LIME",
+                        "image":  "/westgroupe/SFK-318/676190781281_W00.JPG"
+                    },
+                    {
+                        "size":  "50.017130",
+                        "code":  "M300-SFK-318",
+                        "colour":  "MATTE BLACK LIME",
+                        "image":  "/westgroupe/SFK-318/676190781328_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017125",
+                        "code":  "M303-SFK-318",
+                        "colour":  "MATTE GREY RED",
+                        "image":  "/westgroupe/SFK-318/676190781441_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017125",
+                        "code":  "M401-SFK-318",
+                        "colour":  "MATTE BLUE ORANGE",
+                        "image":  "/westgroupe/SFK-318/676190781366_W00.JPG"
+                    },
+                    {
+                        "size":  "50.017130",
+                        "code":  "M401-SFK-318",
+                        "colour":  "MATTE BLUE ORANGE",
+                        "image":  "/westgroupe/SFK-318/676190781403_W00.JPG"
+                    }
+                ],
+    "sfk-287":  [
+                    {
+                        "size":  "47.018130",
+                        "code":  "M403-SFK-287",
+                        "colour":  "MATTE CHARCOAL STRIPE",
+                        "image":  "/westgroupe/SFK-287/676190686487_W00.JPG"
+                    },
+                    {
+                        "size":  "45.018125",
+                        "code":  "S313-SFK-287",
+                        "colour":  "CRYSTAL RED",
+                        "image":  "/westgroupe/SFK-287/676190686524_W00.JPG"
+                    },
+                    {
+                        "size":  "47.018130",
+                        "code":  "S313-SFK-287",
+                        "colour":  "CRYSTAL RED",
+                        "image":  "/westgroupe/SFK-287/676190686562_W00.JPG"
+                    },
+                    {
+                        "size":  "45.018125",
+                        "code":  "S401-SFK-287",
+                        "colour":  "NAVY TURQUOISE",
+                        "image":  "/westgroupe/SFK-287/676190686609_W00.JPG"
+                    },
+                    {
+                        "size":  "47.018130",
+                        "code":  "S401-SFK-287",
+                        "colour":  "NAVY TURQUOISE",
+                        "image":  "/westgroupe/SFK-287/676190686647_W00.JPG"
+                    }
+                ],
+    "sfk-263":  [
+                    {
+                        "size":  "47.016125",
+                        "code":  "M100-SFK-263",
+                        "colour":  "BLACK BLUE",
+                        "image":  "/westgroupe/SFK-263/676190639704_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016125",
+                        "code":  "M101-SFK-263",
+                        "colour":  "NAVY RED",
+                        "image":  "/westgroupe/SFK-263/676190639780_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "M101-SFK-263",
+                        "colour":  "NAVY RED",
+                        "image":  "/westgroupe/SFK-263/676190639827_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "M103-SFK-263",
+                        "colour":  "CHARCOAL GREEN",
+                        "image":  "/westgroupe/SFK-263/676190639902_W00.JPG"
+                    }
+                ],
+    "sfk-256":  [
+                    {
+                        "size":  "46.016125",
+                        "code":  "S401-SFK-256",
+                        "colour":  "SKY VIOLET",
+                        "image":  "/westgroupe/SFK-256/676190606720_W00.JPG"
+                    }
+                ],
+    "sfk-337":  [
+                    {
+                        "size":  "46.015125",
+                        "code":  "S401-SFK-337",
+                        "colour":  "PERIWINKLE FUCHSIA",
+                        "image":  "/westgroupe/SFK-337/676190894905_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S401-SFK-337",
+                        "colour":  "PERIWINKLE FUCHSIA",
+                        "image":  "/westgroupe/SFK-337/676190894943_W00.JPG"
+                    },
+                    {
+                        "size":  "46.015125",
+                        "code":  "S407-SFK-337",
+                        "colour":  "LILAC",
+                        "image":  "/westgroupe/SFK-337/676190894820_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S407-SFK-337",
+                        "colour":  "LILAC",
+                        "image":  "/westgroupe/SFK-337/676190894868_W00.JPG"
+                    },
+                    {
+                        "size":  "46.015125",
+                        "code":  "S409-SFK-337",
+                        "colour":  "ROSE",
+                        "image":  "/westgroupe/SFK-337/676190894745_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S409-SFK-337",
+                        "colour":  "ROSE",
+                        "image":  "/westgroupe/SFK-337/676190894783_W00.JPG"
+                    }
+                ],
+    "sfk-298":  [
+                    {
+                        "size":  "47.016130",
+                        "code":  "M107-SFK-298",
+                        "colour":  "PURPLE SKY",
+                        "image":  "/westgroupe/SFK-298/676190735154_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016125",
+                        "code":  "M204-SFK-298",
+                        "colour":  "AQUA RASPBERRY",
+                        "image":  "/westgroupe/SFK-298/676190735192_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "M204-SFK-298",
+                        "colour":  "AQUA RASPBERRY",
+                        "image":  "/westgroupe/SFK-298/676190735239_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016125",
+                        "code":  "M209-SFK-298",
+                        "colour":  "ROSE LEMON",
+                        "image":  "/westgroupe/SFK-298/676190735277_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "M209-SFK-298",
+                        "colour":  "ROSE LEMON",
+                        "image":  "/westgroupe/SFK-298/676190735314_W00.JPG"
+                    }
+                ],
+    "sfk-310":  [
+                    {
+                        "size":  "45.015125",
+                        "code":  "S304-SFK-310",
+                        "colour":  "AQUA GLITTER",
+                        "image":  "/westgroupe/SFK-310/676190748475_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S304-SFK-310",
+                        "colour":  "AQUA GLITTER",
+                        "image":  "/westgroupe/SFK-310/676190748512_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015125",
+                        "code":  "S307-SFK-310",
+                        "colour":  "LILAC GLITTER",
+                        "image":  "/westgroupe/SFK-310/676190748314_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S307-SFK-310",
+                        "colour":  "LILAC GLITTER",
+                        "image":  "/westgroupe/SFK-310/676190748352_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S309-SFK-310",
+                        "colour":  "PINK GLITTER",
+                        "image":  "/westgroupe/SFK-310/676190748437_W00.JPG"
+                    }
+                ],
+    "sfk-334":  [
+                    {
+                        "size":  "44.017125",
+                        "code":  "S201-SFK-334",
+                        "colour":  "BLUE SKY GOLD",
+                        "image":  "/westgroupe/SFK-334/676190895308_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017130",
+                        "code":  "S201-SFK-334",
+                        "colour":  "BLUE SKY GOLD",
+                        "image":  "/westgroupe/SFK-334/676190895346_W00.JPG"
+                    },
+                    {
+                        "size":  "44.017125",
+                        "code":  "S207-SFK-334",
+                        "colour":  "LAVENDER ROSE GOLD",
+                        "image":  "/westgroupe/SFK-334/676190895223_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017130",
+                        "code":  "S207-SFK-334",
+                        "colour":  "LAVENDER ROSE GOLD",
+                        "image":  "/westgroupe/SFK-334/676190895261_W00.JPG"
+                    },
+                    {
+                        "size":  "44.017125",
+                        "code":  "S209-SFK-334",
+                        "colour":  "BERRY ROSE GOLD",
+                        "image":  "/westgroupe/SFK-334/676190895384_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017130",
+                        "code":  "S209-SFK-334",
+                        "colour":  "BERRY ROSE GOLD",
+                        "image":  "/westgroupe/SFK-334/676190895421_W00.JPG"
+                    }
+                ],
+    "sfk-300":  [
+                    {
+                        "size":  "48.016125",
+                        "code":  "S300-SFK-300",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-300/676190740127_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016130",
+                        "code":  "S300-SFK-300",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-300/676190740165_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016125",
+                        "code":  "S301-SFK-300",
+                        "colour":  "NAVY ORANGE",
+                        "image":  "/westgroupe/SFK-300/676190740202_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016130",
+                        "code":  "S301-SFK-300",
+                        "colour":  "NAVY ORANGE",
+                        "image":  "/westgroupe/SFK-300/676190740240_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016125",
+                        "code":  "S303-SFK-300",
+                        "colour":  "CHARCOAL LIME",
+                        "image":  "/westgroupe/SFK-300/676190740288_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016130",
+                        "code":  "S303-SFK-300",
+                        "colour":  "CHARCOAL LIME",
+                        "image":  "/westgroupe/SFK-300/676190740325_W00.JPG"
+                    }
+                ],
+    "sfk-312":  [
+                    {
+                        "size":  "45.017125",
+                        "code":  "S201-SFK-312",
+                        "colour":  "BLUE ROSE GOLD",
+                        "image":  "/westgroupe/SFK-312/676190757316_W00.JPG"
+                    },
+                    {
+                        "size":  "45.017125",
+                        "code":  "S207-SFK-312",
+                        "colour":  "PURPLE GOLD",
+                        "image":  "/westgroupe/SFK-312/676190757392_W00.JPG"
+                    },
+                    {
+                        "size":  "45.017125",
+                        "code":  "S208-SFK-312",
+                        "colour":  "BUBBLEGUM GOLD",
+                        "image":  "/westgroupe/SFK-312/676190757477_W00.JPG"
+                    }
+                ],
+    "sfk-285":  [
+                    {
+                        "size":  "46.015125",
+                        "code":  "S404-SFK-285",
+                        "colour":  "AQUA TWINKLE",
+                        "image":  "/westgroupe/SFK-285/676190681956_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S404-SFK-285",
+                        "colour":  "AQUA TWINKLE",
+                        "image":  "/westgroupe/SFK-285/676190681994_W00.JPEG"
+                    },
+                    {
+                        "size":  "46.015125",
+                        "code":  "S407-SFK-285",
+                        "colour":  "INDIGO TWINKLE",
+                        "image":  "/westgroupe/SFK-285/676190682038_W00.JPG"
+                    }
+                ],
+    "sfk-332":  [
+                    {
+                        "size":  "45.015125",
+                        "code":  "S404-SFK-332",
+                        "colour":  "AQUA PERIWINKLE",
+                        "image":  "/westgroupe/SFK-332/676190858754_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S404-SFK-332",
+                        "colour":  "AQUA PERIWINKLE",
+                        "image":  "/westgroupe/SFK-332/676190858792_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015125",
+                        "code":  "S407-SFK-332",
+                        "colour":  "MAUVE CORAL",
+                        "image":  "/westgroupe/SFK-332/676190858839_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S407-SFK-332",
+                        "colour":  "MAUVE CORAL",
+                        "image":  "/westgroupe/SFK-332/676190858877_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015125",
+                        "code":  "S409-SFK-332",
+                        "colour":  "PEACH SHIMMER",
+                        "image":  "/westgroupe/SFK-332/676190858914_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S409-SFK-332",
+                        "colour":  "PEACH SHIMMER",
+                        "image":  "/westgroupe/SFK-332/676190858952_W00.JPG"
+                    }
+                ],
+    "sfk-341":  [
+                    {
+                        "size":  "45.017130",
+                        "code":  "S300-SFK-341",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-341/881814537254_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017135",
+                        "code":  "S300-SFK-341",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-341/881814537292_W00.JPG"
+                    },
+                    {
+                        "size":  "45.017130",
+                        "code":  "S301-SFK-341",
+                        "colour":  "NAVY GREEN",
+                        "image":  "/westgroupe/SFK-341/881814537179_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017135",
+                        "code":  "S301-SFK-341",
+                        "colour":  "NAVY GREEN",
+                        "image":  "/westgroupe/SFK-341/881814537216_W00.JPG"
+                    },
+                    {
+                        "size":  "45.017130",
+                        "code":  "S316-SFK-341",
+                        "colour":  "FOREST ORANGE",
+                        "image":  "/westgroupe/SFK-341/881814537094_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017135",
+                        "code":  "S316-SFK-341",
+                        "colour":  "FOREST ORANGE",
+                        "image":  "/westgroupe/SFK-341/881814537131_W00.JPG"
+                    }
+                ],
+    "sfk-286":  [
+                    {
+                        "size":  "47.015130",
+                        "code":  "S407-SFK-286",
+                        "colour":  "IRIS LAVENDER",
+                        "image":  "/westgroupe/SFK-286/676190681710_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S408-SFK-286",
+                        "colour":  "BERRY AQUA",
+                        "image":  "/westgroupe/SFK-286/676190681796_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S409-SFK-286",
+                        "colour":  "PINK CORAL",
+                        "image":  "/westgroupe/SFK-286/676190681871_W00.JPG"
+                    },
+                    {
+                        "size":  "49.015135",
+                        "code":  "S409-SFK-286",
+                        "colour":  "PINK CORAL",
+                        "image":  "/westgroupe/SFK-286/676190681918_W00.JPG"
+                    }
+                ],
+    "sfk-316":  [
+                    {
+                        "size":  "46.016130",
+                        "code":  "S107-SFK-316",
+                        "colour":  "LAVENDER ROSE GOLD",
+                        "image":  "/westgroupe/SFK-316/676190790924_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016135",
+                        "code":  "S107-SFK-316",
+                        "colour":  "LAVENDER ROSE GOLD",
+                        "image":  "/westgroupe/SFK-316/676190790962_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016130",
+                        "code":  "S115-SFK-316",
+                        "colour":  "PAPAYA GOLD",
+                        "image":  "/westgroupe/SFK-316/676190791082_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016135",
+                        "code":  "S115-SFK-316",
+                        "colour":  "PAPAYA GOLD",
+                        "image":  "/westgroupe/SFK-316/676190791129_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016130",
+                        "code":  "S116-SFK-316",
+                        "colour":  "MINT ROSE GOLD",
+                        "image":  "/westgroupe/SFK-316/676190791006_W00.JPG"
+                    }
+                ],
+    "sfk-331":  [
+                    {
+                        "size":  "47.017130",
+                        "code":  "M400-SFK-331",
+                        "colour":  "BLACK RED GREY",
+                        "image":  "/westgroupe/SFK-331/676190859126_W00.JPG"
+                    },
+                    {
+                        "size":  "49.017135",
+                        "code":  "M400-SFK-331",
+                        "colour":  "BLACK RED GREY",
+                        "image":  "/westgroupe/SFK-331/676190859164_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "M401-SFK-331",
+                        "colour":  "NAVY BLUE WHITE",
+                        "image":  "/westgroupe/SFK-331/676190859201_W00.JPG"
+                    },
+                    {
+                        "size":  "49.017135",
+                        "code":  "M401-SFK-331",
+                        "colour":  "NAVY BLUE WHITE",
+                        "image":  "/westgroupe/SFK-331/676190859249_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "M416-SFK-331",
+                        "colour":  "FOREST GREEN ORANGE",
+                        "image":  "/westgroupe/SFK-331/676190859287_W00.JPG"
+                    },
+                    {
+                        "size":  "49.017135",
+                        "code":  "M416-SFK-331",
+                        "colour":  "FOREST GREEN ORANGE",
+                        "image":  "/westgroupe/SFK-331/676190859324_W00.JPG"
+                    }
+                ],
+    "sfk-336":  [
+                    {
+                        "size":  "48.016130",
+                        "code":  "S300-SFK-336",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-336/676190893991_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016135",
+                        "code":  "S300-SFK-336",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-336/676190894035_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "S301-SFK-336",
+                        "colour":  "NAVY APPLE",
+                        "image":  "/westgroupe/SFK-336/676190894158_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016135",
+                        "code":  "S301-SFK-336",
+                        "colour":  "NAVY APPLE",
+                        "image":  "/westgroupe/SFK-336/676190894196_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "S316-SFK-336",
+                        "colour":  "FOREST ORANGE",
+                        "image":  "/westgroupe/SFK-336/676190894073_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016135",
+                        "code":  "S316-SFK-336",
+                        "colour":  "FOREST ORANGE",
+                        "image":  "/westgroupe/SFK-336/676190894110_W00.JPG"
+                    }
+                ],
+    "sfk-338":  [
+                    {
+                        "size":  "49.016130",
+                        "code":  "M100-SFK-338",
+                        "colour":  "BLACK",
+                        "image":  "/westgroupe/SFK-338/881814542715_W00.JPG"
+                    },
+                    {
+                        "size":  "51.016135",
+                        "code":  "M100-SFK-338",
+                        "colour":  "BLACK",
+                        "image":  "/westgroupe/SFK-338/881814542753_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "M102-SFK-338",
+                        "colour":  "BROWN",
+                        "image":  "/westgroupe/SFK-338/881814542791_W00.JPG"
+                    },
+                    {
+                        "size":  "51.016135",
+                        "code":  "M102-SFK-338",
+                        "colour":  "BROWN",
+                        "image":  "/westgroupe/SFK-338/881814542838_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "M116-SFK-338",
+                        "colour":  "FOREST GREEN",
+                        "image":  "/westgroupe/SFK-338/881814542876_W00.JPG"
+                    },
+                    {
+                        "size":  "51.016135",
+                        "code":  "M116-SFK-338",
+                        "colour":  "FOREST GREEN",
+                        "image":  "/westgroupe/SFK-338/881814542913_W00.JPG"
+                    }
+                ],
+    "sfk-243":  [
+                    {
+                        "size":  "46.016125",
+                        "code":  "M101-SFK-243",
+                        "colour":  "NAVY LEMON GREY",
+                        "image":  "/westgroupe/SFK-243/676190586879_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "M101-SFK-243",
+                        "colour":  "NAVY LEMON GREY",
+                        "image":  "/westgroupe/SFK-243/676190586916_W00.JPG"
+                    }
+                ],
+    "sfk-317":  [
+                    {
+                        "size":  "48.016130",
+                        "code":  "M100-SFK-317",
+                        "colour":  "BLACK CAMO",
+                        "image":  "/westgroupe/SFK-317/676190798364_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016135",
+                        "code":  "M100-SFK-317",
+                        "colour":  "BLACK CAMO",
+                        "image":  "/westgroupe/SFK-317/676190798401_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "M101-SFK-317",
+                        "colour":  "NAVY CAMO",
+                        "image":  "/westgroupe/SFK-317/676190798449_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "M116-SFK-317",
+                        "colour":  "GREEN CAMO",
+                        "image":  "/westgroupe/SFK-317/676190798524_W00.JPG"
+                    },
+                    {
+                        "size":  "50.016135",
+                        "code":  "M116-SFK-317",
+                        "colour":  "GREEN CAMO",
+                        "image":  "/westgroupe/SFK-317/676190798562_W00.JPG"
+                    }
+                ],
+    "sfk-320":  [
+                    {
+                        "size":  "49.017130",
+                        "code":  "S401-SFK-320",
+                        "colour":  "NAVY BLUE YELLOW",
+                        "image":  "/westgroupe/SFK-320/676190791587_W00.JPG"
+                    },
+                    {
+                        "size":  "51.017135",
+                        "code":  "S401-SFK-320",
+                        "colour":  "NAVY BLUE YELLOW",
+                        "image":  "/westgroupe/SFK-320/676190791624_W00.JPG"
+                    },
+                    {
+                        "size":  "49.017130",
+                        "code":  "S403-SFK-320",
+                        "colour":  "GREY ORANGE APRICOT",
+                        "image":  "/westgroupe/SFK-320/676190791501_W00.JPG"
+                    },
+                    {
+                        "size":  "51.017135",
+                        "code":  "S403-SFK-320",
+                        "colour":  "GREY ORANGE APRICOT",
+                        "image":  "/westgroupe/SFK-320/676190791549_W00.JPG"
+                    },
+                    {
+                        "size":  "49.017130",
+                        "code":  "S416-SFK-320",
+                        "colour":  "FOREST LIME GREY",
+                        "image":  "/westgroupe/SFK-320/676190791426_W00.JPG"
+                    },
+                    {
+                        "size":  "51.017135",
+                        "code":  "S416-SFK-320",
+                        "colour":  "FOREST LIME GREY",
+                        "image":  "/westgroupe/SFK-320/676190791464_W00.JPG"
+                    }
+                ],
+    "sfk-308":  [
+                    {
+                        "size":  "49.016130",
+                        "code":  "S400-SFK-308",
+                        "colour":  "BLACK GREEN COBALT",
+                        "image":  "/westgroupe/SFK-308/676190749182_W00.JPG"
+                    },
+                    {
+                        "size":  "51.016135",
+                        "code":  "S400-SFK-308",
+                        "colour":  "BLACK GREEN COBALT",
+                        "image":  "/westgroupe/SFK-308/676190749229_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "S401-SFK-308",
+                        "colour":  "BLUE RED ORANGE",
+                        "image":  "/westgroupe/SFK-308/676190749267_W00.JPG"
+                    },
+                    {
+                        "size":  "51.016135",
+                        "code":  "S401-SFK-308",
+                        "colour":  "BLUE RED ORANGE",
+                        "image":  "/westgroupe/SFK-308/676190749304_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "S403-SFK-308",
+                        "colour":  "GREY TEAL LIME",
+                        "image":  "/westgroupe/SFK-308/676190749342_W00.JPG"
+                    },
+                    {
+                        "size":  "51.016135",
+                        "code":  "S403-SFK-308",
+                        "colour":  "GREY TEAL LIME",
+                        "image":  "/westgroupe/SFK-308/676190749380_W00.JPG"
+                    }
+                ],
+    "sfk-264":  [
+                    {
+                        "size":  "45.016125",
+                        "code":  "M300-SFK-264",
+                        "colour":  "BLACK LIME",
+                        "image":  "/westgroupe/SFK-264/676190640441_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016125",
+                        "code":  "M301-SFK-264",
+                        "colour":  "NAVY LEMON",
+                        "image":  "/westgroupe/SFK-264/676190640526_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016125",
+                        "code":  "M303-SFK-264",
+                        "colour":  "GREY ORANGE",
+                        "image":  "/westgroupe/SFK-264/676190640601_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "M303-SFK-264",
+                        "colour":  "GREY ORANGE",
+                        "image":  "/westgroupe/SFK-264/676190640649_W00.JPG"
+                    }
+                ],
+    "sfk-311":  [
+                    {
+                        "size":  "46.017125",
+                        "code":  "S300-SFK-311",
+                        "colour":  "BLACK CRYSTAL",
+                        "image":  "/westgroupe/SFK-311/676190756777_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S300-SFK-311",
+                        "colour":  "BLACK CRYSTAL",
+                        "image":  "/westgroupe/SFK-311/676190756814_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017125",
+                        "code":  "S301-SFK-311",
+                        "colour":  "BLUE AQUA",
+                        "image":  "/westgroupe/SFK-311/676190756852_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S301-SFK-311",
+                        "colour":  "BLUE AQUA",
+                        "image":  "/westgroupe/SFK-311/676190756890_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017125",
+                        "code":  "S403-SFK-311",
+                        "colour":  "GREY ORANGE",
+                        "image":  "/westgroupe/SFK-311/676190756937_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S403-SFK-311",
+                        "colour":  "GREY ORANGE",
+                        "image":  "/westgroupe/SFK-311/676190756975_W00.JPG"
+                    }
+                ],
+    "sfk-309":  [
+                    {
+                        "size":  "48.015130",
+                        "code":  "S404-SFK-309",
+                        "colour":  "AQUA SHIMMER",
+                        "image":  "/westgroupe/SFK-309/676190748079_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S404-SFK-309",
+                        "colour":  "AQUA SHIMMER",
+                        "image":  "/westgroupe/SFK-309/676190748116_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S407-SFK-309",
+                        "colour":  "PURPLE GRADIENT",
+                        "image":  "/westgroupe/SFK-309/676190748239_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S407-SFK-309",
+                        "colour":  "PURPLE GRADIENT",
+                        "image":  "/westgroupe/SFK-309/676190748277_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S409-SFK-309",
+                        "colour":  "PINK MULTI",
+                        "image":  "/westgroupe/SFK-309/676190748154_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S409-SFK-309",
+                        "colour":  "PINK MULTI",
+                        "image":  "/westgroupe/SFK-309/676190748192_W00.JPG"
+                    }
+                ],
+    "sfk-272":  [
+                    {
+                        "size":  "44.016120",
+                        "code":  "S300-SFK-272",
+                        "colour":  "BLACK GREEN",
+                        "image":  "/westgroupe/SFK-272/676190645194_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S300-SFK-272",
+                        "colour":  "BLACK GREEN",
+                        "image":  "/westgroupe/SFK-272/676190645231_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S301-SFK-272",
+                        "colour":  "SKY RED",
+                        "image":  "/westgroupe/SFK-272/676190645279_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S301-SFK-272",
+                        "colour":  "SKY RED",
+                        "image":  "/westgroupe/SFK-272/676190645316_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S303-SFK-272",
+                        "colour":  "GREY ORANGE",
+                        "image":  "/westgroupe/SFK-272/676190645354_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S303-SFK-272",
+                        "colour":  "GREY ORANGE",
+                        "image":  "/westgroupe/SFK-272/676190645392_W00.JPG"
+                    }
+                ],
+    "sfk-271":  [
+                    {
+                        "size":  "50.016135",
+                        "code":  "M100-SFK-271",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-271/676190647341_W00.JPG"
+                    }
+                ],
+    "sfk-314":  [
+                    {
+                        "size":  "44.015120",
+                        "code":  "S404-SFK-314",
+                        "colour":  "TEAL GLITTER",
+                        "image":  "/westgroupe/SFK-314/676190773781_W00.JPG"
+                    },
+                    {
+                        "size":  "46.015125",
+                        "code":  "S404-SFK-314",
+                        "colour":  "TEAL GLITTER",
+                        "image":  "/westgroupe/SFK-314/676190773828_W00.JPG"
+                    },
+                    {
+                        "size":  "44.015120",
+                        "code":  "S407-SFK-314",
+                        "colour":  "PURPLE GLITTER",
+                        "image":  "/westgroupe/SFK-314/676190773705_W00.JPG"
+                    },
+                    {
+                        "size":  "44.015120",
+                        "code":  "S409-SFK-314",
+                        "colour":  "ROSE FUCHSIA",
+                        "image":  "/westgroupe/SFK-314/676190773620_W00.JPG"
+                    }
+                ],
+    "sfk-289":  [
+                    {
+                        "size":  "47.016125",
+                        "code":  "M400-SFK-289",
+                        "colour":  "BLACK MANGO RED",
+                        "image":  "/westgroupe/SFK-289/676190707403_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016125",
+                        "code":  "M401-SFK-289",
+                        "colour":  "COBALT RED ORANGE",
+                        "image":  "/westgroupe/SFK-289/676190707489_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "M401-SFK-289",
+                        "colour":  "COBALT RED ORANGE",
+                        "image":  "/westgroupe/SFK-289/676190707526_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016125",
+                        "code":  "M403-SFK-289",
+                        "colour":  "CHARCOAL CYAN LIME",
+                        "image":  "/westgroupe/SFK-289/676190707564_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "M403-SFK-289",
+                        "colour":  "CHARCOAL CYAN LIME",
+                        "image":  "/westgroupe/SFK-289/676190707601_W00.JPG"
+                    }
+                ],
+    "sfk-315":  [
+                    {
+                        "size":  "44.016120",
+                        "code":  "S300-SFK-315",
+                        "colour":  "BLACK GREEN",
+                        "image":  "/westgroupe/SFK-315/676190797923_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S300-SFK-315",
+                        "colour":  "BLACK GREEN",
+                        "image":  "/westgroupe/SFK-315/676190797961_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S301-SFK-315",
+                        "colour":  "NAVY RED",
+                        "image":  "/westgroupe/SFK-315/676190797848_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S301-SFK-315",
+                        "colour":  "NAVY RED",
+                        "image":  "/westgroupe/SFK-315/676190797886_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S310-SFK-315",
+                        "colour":  "BURGUNDY BLUE",
+                        "image":  "/westgroupe/SFK-315/676190798005_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S310-SFK-315",
+                        "colour":  "BURGUNDY BLUE",
+                        "image":  "/westgroupe/SFK-315/676190798043_W00.JPG"
+                    }
+                ],
+    "sfk-288":  [
+                    {
+                        "size":  "48.015130",
+                        "code":  "S401-SFK-288",
+                        "colour":  "BLUE PINK",
+                        "image":  "/westgroupe/SFK-288/676190682694_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S401-SFK-288",
+                        "colour":  "BLUE PINK",
+                        "image":  "/westgroupe/SFK-288/676190682731_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S404-SFK-288",
+                        "colour":  "TEAL RASPBERRY",
+                        "image":  "/westgroupe/SFK-288/676190682816_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S407-SFK-288",
+                        "colour":  "PURPLE FUCHSIA",
+                        "image":  "/westgroupe/SFK-288/676190682854_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S407-SFK-288",
+                        "colour":  "PURPLE FUCHSIA",
+                        "image":  "/westgroupe/SFK-288/676190682892_W00.JPG"
+                    }
+                ],
+    "sfk-278":  [
+                    {
+                        "size":  "44.016120",
+                        "code":  "S304-SFK-278",
+                        "colour":  "TURQUOISE PEACH",
+                        "image":  "/westgroupe/SFK-278/676190665352_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S304-SFK-278",
+                        "colour":  "TURQUOISE PEACH",
+                        "image":  "/westgroupe/SFK-278/676190665390_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S309-SFK-278",
+                        "colour":  "PINK CORAL",
+                        "image":  "/westgroupe/SFK-278/676190665512_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S309-SFK-278",
+                        "colour":  "PINK CORAL",
+                        "image":  "/westgroupe/SFK-278/676190665550_W00.JPG"
+                    }
+                ],
+    "sfk-339":  [
+                    {
+                        "size":  "47.015130",
+                        "code":  "S403-SFK-339",
+                        "colour":  "GREY ROSE",
+                        "image":  "/westgroupe/SFK-339/676190897913_W00.JPG"
+                    },
+                    {
+                        "size":  "49.015135",
+                        "code":  "S403-SFK-339",
+                        "colour":  "GREY ROSE",
+                        "image":  "/westgroupe/SFK-339/676190897951_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S407-SFK-339",
+                        "colour":  "PURPLE GRADIENT",
+                        "image":  "/westgroupe/SFK-339/676190897838_W00.JPG"
+                    },
+                    {
+                        "size":  "49.015135",
+                        "code":  "S407-SFK-339",
+                        "colour":  "PURPLE GRADIENT",
+                        "image":  "/westgroupe/SFK-339/676190897876_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S408-SFK-339",
+                        "colour":  "FUCHSIA AQUA",
+                        "image":  "/westgroupe/SFK-339/676190897999_W00.JPG"
+                    },
+                    {
+                        "size":  "49.015135",
+                        "code":  "S408-SFK-339",
+                        "colour":  "FUCHSIA AQUA",
+                        "image":  "/westgroupe/SFK-339/676190898033_W00.JPG"
+                    }
+                ],
+    "sfk-306":  [
+                    {
+                        "size":  "48.015130",
+                        "code":  "S404-SFK-306",
+                        "colour":  "AQUA GRADIENT",
+                        "image":  "/westgroupe/SFK-306/676190745177_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S404-SFK-306",
+                        "colour":  "AQUA GRADIENT",
+                        "image":  "/westgroupe/SFK-306/676190745214_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S410-SFK-306",
+                        "colour":  "RASPBERRY GRADIENT",
+                        "image":  "/westgroupe/SFK-306/676190745252_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S410-SFK-306",
+                        "colour":  "RASPBERRY GRADIENT",
+                        "image":  "/westgroupe/SFK-306/676190745290_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S415-SFK-306",
+                        "colour":  "APRICOT GRADIENT",
+                        "image":  "/westgroupe/SFK-306/676190745337_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S415-SFK-306",
+                        "colour":  "APRICOT GRADIENT",
+                        "image":  "/westgroupe/SFK-306/676190745375_W00.JPG"
+                    }
+                ],
+    "sfk-276":  [
+                    {
+                        "size":  "45.016125",
+                        "code":  "M204-SFK-276",
+                        "colour":  "TEAL ROSE GOLD",
+                        "image":  "/westgroupe/SFK-276/676190660258_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "M207-SFK-276",
+                        "colour":  "LAVENDER ROSE GOLD",
+                        "image":  "/westgroupe/SFK-276/676190660371_W00.JPG"
+                    }
+                ],
+    "sfk-273":  [
+                    {
+                        "size":  "48.016130",
+                        "code":  "M204-SFK-273",
+                        "colour":  "TURQUOISE PINK",
+                        "image":  "/westgroupe/SFK-273/676190647082_W00.JPG"
+                    }
+                ],
+    "sfk-293":  [
+                    {
+                        "size":  "45.016125",
+                        "code":  "S400-SFK-293",
+                        "colour":  "BLACK YELLOW",
+                        "image":  "/westgroupe/SFK-293/676190718201_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "S400-SFK-293",
+                        "colour":  "BLACK YELLOW",
+                        "image":  "/westgroupe/SFK-293/676190718249_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016125",
+                        "code":  "S401-SFK-293",
+                        "colour":  "COBALT RED",
+                        "image":  "/westgroupe/SFK-293/676190718287_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016125",
+                        "code":  "S403-SFK-293",
+                        "colour":  "GREY GREEN",
+                        "image":  "/westgroupe/SFK-293/676190718362_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "S403-SFK-293",
+                        "colour":  "GREY GREEN",
+                        "image":  "/westgroupe/SFK-293/676190718409_W00.JPG"
+                    }
+                ],
+    "sfk-280":  [
+                    {
+                        "size":  "48.016130",
+                        "code":  "M209-SFK-280",
+                        "colour":  "PINK TURQUOISE",
+                        "image":  "/westgroupe/SFK-280/676190683370_W00.JPG"
+                    }
+                ],
+    "sfk-307":  [
+                    {
+                        "size":  "44.016120",
+                        "code":  "S300-SFK-307",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-307/676190748949_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S300-SFK-307",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-307/676190748987_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S301-SFK-307",
+                        "colour":  "COBALT ORANGE",
+                        "image":  "/westgroupe/SFK-307/676190749021_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S301-SFK-307",
+                        "colour":  "COBALT ORANGE",
+                        "image":  "/westgroupe/SFK-307/676190749069_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S316-SFK-307",
+                        "colour":  "GREEN LEMON",
+                        "image":  "/westgroupe/SFK-307/676190749106_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S316-SFK-307",
+                        "colour":  "GREEN LEMON",
+                        "image":  "/westgroupe/SFK-307/676190749144_W00.JPG"
+                    }
+                ],
+    "sfk-258":  [
+                    {
+                        "size":  "45.016125",
+                        "code":  "M200-SFK-258",
+                        "colour":  "BLACK BLUE",
+                        "image":  "/westgroupe/SFK-258/676190614268_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "M200-SFK-258",
+                        "colour":  "BLACK BLUE",
+                        "image":  "/westgroupe/SFK-258/676190614305_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016125",
+                        "code":  "M201-SFK-258",
+                        "colour":  "NAVY LIME",
+                        "image":  "/westgroupe/SFK-258/676190614343_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "M201-SFK-258",
+                        "colour":  "NAVY LIME",
+                        "image":  "/westgroupe/SFK-258/676190614381_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "M203-SFK-258",
+                        "colour":  "DARK GREY RED",
+                        "image":  "/westgroupe/SFK-258/676190614466_W00.JPG"
+                    }
+                ],
+    "sfk-321":  [
+                    {
+                        "size":  "46.017125",
+                        "code":  "S404-SFK-321",
+                        "colour":  "AQUA MAUVE",
+                        "image":  "/westgroupe/SFK-321/676190798609_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S404-SFK-321",
+                        "colour":  "AQUA MAUVE",
+                        "image":  "/westgroupe/SFK-321/676190798647_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017125",
+                        "code":  "S407-SFK-321",
+                        "colour":  "VIOLET FUCHSIA",
+                        "image":  "/westgroupe/SFK-321/676190798760_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S407-SFK-321",
+                        "colour":  "VIOLET FUCHSIA",
+                        "image":  "/westgroupe/SFK-321/676190798807_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017125",
+                        "code":  "S408-SFK-321",
+                        "colour":  "RASPBERRY ROSE",
+                        "image":  "/westgroupe/SFK-321/676190798685_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S408-SFK-321",
+                        "colour":  "RASPBERRY ROSE",
+                        "image":  "/westgroupe/SFK-321/676190798722_W00.JPG"
+                    }
+                ],
+    "sfk-292":  [
+                    {
+                        "size":  "44.016120",
+                        "code":  "S307-SFK-292",
+                        "colour":  "EGGPLANT MULTI LEMON",
+                        "image":  "/westgroupe/SFK-292/676190707649_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S307-SFK-292",
+                        "colour":  "EGGPLANT MULTI LEMON",
+                        "image":  "/westgroupe/SFK-292/676190707687_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S309-SFK-292",
+                        "colour":  "PINK RED",
+                        "image":  "/westgroupe/SFK-292/676190707724_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S309-SFK-292",
+                        "colour":  "PINK RED",
+                        "image":  "/westgroupe/SFK-292/676190707762_W00.JPG"
+                    },
+                    {
+                        "size":  "44.016120",
+                        "code":  "S401-SFK-292",
+                        "colour":  "BLUE AQUA PINK",
+                        "image":  "/westgroupe/SFK-292/676190707809_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S401-SFK-292",
+                        "colour":  "BLUE AQUA PINK",
+                        "image":  "/westgroupe/SFK-292/676190707847_W00.JPG"
+                    }
+                ],
+    "sfk-302":  [
+                    {
+                        "size":  "45.015125",
+                        "code":  "M200-SFK-302",
+                        "colour":  "BLACK GREEN",
+                        "image":  "/westgroupe/SFK-302/676190740363_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "M200-SFK-302",
+                        "colour":  "BLACK GREEN",
+                        "image":  "/westgroupe/SFK-302/676190740400_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015125",
+                        "code":  "M201-SFK-302",
+                        "colour":  "NAVY AQUA",
+                        "image":  "/westgroupe/SFK-302/676190740448_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "M201-SFK-302",
+                        "colour":  "NAVY AQUA",
+                        "image":  "/westgroupe/SFK-302/676190740486_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015125",
+                        "code":  "M203-SFK-302",
+                        "colour":  "CHARCOAL ORANGE",
+                        "image":  "/westgroupe/SFK-302/676190740523_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "M203-SFK-302",
+                        "colour":  "CHARCOAL ORANGE",
+                        "image":  "/westgroupe/SFK-302/676190740561_W00.JPG"
+                    }
+                ],
+    "sfk-303":  [
+                    {
+                        "size":  "46.017125",
+                        "code":  "S404-SFK-303",
+                        "colour":  "TEAL ROSE",
+                        "image":  "/westgroupe/SFK-303/676190735376_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S404-SFK-303",
+                        "colour":  "TEAL ROSE",
+                        "image":  "/westgroupe/SFK-303/676190735413_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017125",
+                        "code":  "S407-SFK-303",
+                        "colour":  "PURPLE LILAC",
+                        "image":  "/westgroupe/SFK-303/676190735451_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017125",
+                        "code":  "S409-SFK-303",
+                        "colour":  "FUCHSIA LEMON",
+                        "image":  "/westgroupe/SFK-303/676190735536_W00.JPG"
+                    },
+                    {
+                        "size":  "48.017130",
+                        "code":  "S409-SFK-303",
+                        "colour":  "FUCHSIA LEMON",
+                        "image":  "/westgroupe/SFK-303/676190735574_W00.JPG"
+                    }
+                ],
+    "sfk-325":  [
+                    {
+                        "size":  "46.016125",
+                        "code":  "S300-SFK-325",
+                        "colour":  "BLACK BLUE",
+                        "image":  "/westgroupe/SFK-325/676190844801_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "S300-SFK-325",
+                        "colour":  "BLACK BLUE",
+                        "image":  "/westgroupe/SFK-325/676190844849_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S301-SFK-325",
+                        "colour":  "BLUE RED",
+                        "image":  "/westgroupe/SFK-325/676190844962_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "S301-SFK-325",
+                        "colour":  "BLUE RED",
+                        "image":  "/westgroupe/SFK-325/676190845006_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S303-SFK-325",
+                        "colour":  "GREY GREEN",
+                        "image":  "/westgroupe/SFK-325/676190844887_W00.JPG"
+                    },
+                    {
+                        "size":  "48.016130",
+                        "code":  "S303-SFK-325",
+                        "colour":  "GREY GREEN",
+                        "image":  "/westgroupe/SFK-325/676190844924_W00.JPG"
+                    }
+                ],
+    "sfk-299":  [
+                    {
+                        "size":  "46.015125",
+                        "code":  "M200-SFK-299",
+                        "colour":  "BLACK CRIMSON",
+                        "image":  "/westgroupe/SFK-299/676190739862_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "M200-SFK-299",
+                        "colour":  "BLACK CRIMSON",
+                        "image":  "/westgroupe/SFK-299/676190739909_W00.JPG"
+                    },
+                    {
+                        "size":  "46.015125",
+                        "code":  "M203-SFK-299",
+                        "colour":  "CHARCOAL ICE BLUE",
+                        "image":  "/westgroupe/SFK-299/676190739947_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "M203-SFK-299",
+                        "colour":  "CHARCOAL ICE BLUE",
+                        "image":  "/westgroupe/SFK-299/676190739985_W00.JPG"
+                    },
+                    {
+                        "size":  "46.015125",
+                        "code":  "M216-SFK-299",
+                        "colour":  "FOREST LIME",
+                        "image":  "/westgroupe/SFK-299/676190740028_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "M216-SFK-299",
+                        "colour":  "FOREST LIME",
+                        "image":  "/westgroupe/SFK-299/676190740066_W00.JPG"
+                    }
+                ],
+    "sfk-304":  [
+                    {
+                        "size":  "45.015125",
+                        "code":  "S304-SFK-304",
+                        "colour":  "AQUA FUCHSIA",
+                        "image":  "/westgroupe/SFK-304/676190734874_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S304-SFK-304",
+                        "colour":  "AQUA FUCHSIA",
+                        "image":  "/westgroupe/SFK-304/676190734911_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015125",
+                        "code":  "S307-SFK-304",
+                        "colour":  "PURPLE SHIMMER SKY",
+                        "image":  "/westgroupe/SFK-304/676190734959_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S307-SFK-304",
+                        "colour":  "PURPLE SHIMMER SKY",
+                        "image":  "/westgroupe/SFK-304/676190734997_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015125",
+                        "code":  "S309-SFK-304",
+                        "colour":  "APRICOT SHIMMER LAVENDER",
+                        "image":  "/westgroupe/SFK-304/676190735031_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015130",
+                        "code":  "S309-SFK-304",
+                        "colour":  "APRICOT SHIMMER LAVENDER",
+                        "image":  "/westgroupe/SFK-304/676190735079_W00.JPG"
+                    }
+                ],
+    "sfk-324":  [
+                    {
+                        "size":  "48.015130",
+                        "code":  "S309-SFK-324",
+                        "colour":  "ROSE SHIMMER",
+                        "image":  "/westgroupe/SFK-324/676190803563_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S309-SFK-324",
+                        "colour":  "ROSE SHIMMER",
+                        "image":  "/westgroupe/SFK-324/676190803600_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S401-SFK-324",
+                        "colour":  "INDIGO ROSE",
+                        "image":  "/westgroupe/SFK-324/676190803488_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S401-SFK-324",
+                        "colour":  "INDIGO ROSE",
+                        "image":  "/westgroupe/SFK-324/676190803525_W00.JPG"
+                    },
+                    {
+                        "size":  "48.015130",
+                        "code":  "S404-SFK-324",
+                        "colour":  "TEAL GRADIENT",
+                        "image":  "/westgroupe/SFK-324/676190803402_W00.JPG"
+                    },
+                    {
+                        "size":  "50.015135",
+                        "code":  "S404-SFK-324",
+                        "colour":  "TEAL GRADIENT",
+                        "image":  "/westgroupe/SFK-324/676190803440_W00.JPG"
+                    }
+                ],
+    "sfk-274":  [
+                    {
+                        "size":  "47.017130",
+                        "code":  "S401-SFK-274",
+                        "colour":  "BLUEBERRY LAVENDER",
+                        "image":  "/westgroupe/SFK-274/676190646801_W00.JPG"
+                    },
+                    {
+                        "size":  "47.017130",
+                        "code":  "S404-SFK-274",
+                        "colour":  "AQUA ROSE",
+                        "image":  "/westgroupe/SFK-274/676190646887_W00.JPG"
+                    },
+                    {
+                        "size":  "49.017135",
+                        "code":  "S404-SFK-274",
+                        "colour":  "AQUA ROSE",
+                        "image":  "/westgroupe/SFK-274/676190646924_W00.JPG"
+                    }
+                ],
+    "sfk-305":  [
+                    {
+                        "size":  "45.016125",
+                        "code":  "M301-SFK-305",
+                        "colour":  "MATTE MARINE APPLE",
+                        "image":  "/westgroupe/SFK-305/676190741001_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "M301-SFK-305",
+                        "colour":  "MATTE MARINE APPLE",
+                        "image":  "/westgroupe/SFK-305/676190741049_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016125",
+                        "code":  "S300-SFK-305",
+                        "colour":  "BLACK LIME GREEN",
+                        "image":  "/westgroupe/SFK-305/676190741087_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "S300-SFK-305",
+                        "colour":  "BLACK LIME GREEN",
+                        "image":  "/westgroupe/SFK-305/676190741124_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016125",
+                        "code":  "S316-SFK-305",
+                        "colour":  "PINE ORANGE LEMON",
+                        "image":  "/westgroupe/SFK-305/676190741162_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "S316-SFK-305",
+                        "colour":  "PINE ORANGE LEMON",
+                        "image":  "/westgroupe/SFK-305/676190741209_W00.JPG"
+                    }
+                ],
+    "sfk-323":  [
+                    {
+                        "size":  "45.018130",
+                        "code":  "S400-SFK-323",
+                        "colour":  "BLACK",
+                        "image":  "/westgroupe/SFK-323/676190781601_W00.JPG"
+                    },
+                    {
+                        "size":  "47.018135",
+                        "code":  "S400-SFK-323",
+                        "colour":  "BLACK",
+                        "image":  "/westgroupe/SFK-323/676190781649_W00.JPG"
+                    },
+                    {
+                        "size":  "45.018130",
+                        "code":  "S403-SFK-323",
+                        "colour":  "GREY CRYSTAL",
+                        "image":  "/westgroupe/SFK-323/676190781687_W00.JPG"
+                    },
+                    {
+                        "size":  "47.018135",
+                        "code":  "S403-SFK-323",
+                        "colour":  "GREY CRYSTAL",
+                        "image":  "/westgroupe/SFK-323/676190781724_W00.JPG"
+                    },
+                    {
+                        "size":  "45.018130",
+                        "code":  "S410-SFK-323",
+                        "colour":  "RED",
+                        "image":  "/westgroupe/SFK-323/676190781526_W00.JPG"
+                    },
+                    {
+                        "size":  "47.018135",
+                        "code":  "S410-SFK-323",
+                        "colour":  "RED",
+                        "image":  "/westgroupe/SFK-323/676190781564_W00.JPG"
+                    }
+                ],
+    "sfk-330":  [
+                    {
+                        "size":  "47.016125",
+                        "code":  "M201-SFK-330",
+                        "colour":  "SKY MAGENTA ROSE GOLD",
+                        "image":  "/westgroupe/SFK-330/676190849448_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "M201-SFK-330",
+                        "colour":  "SKY MAGENTA ROSE GOLD",
+                        "image":  "/westgroupe/SFK-330/676190849486_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016125",
+                        "code":  "M204-SFK-330",
+                        "colour":  "TEAL BLUSH ROSE GOLD",
+                        "image":  "/westgroupe/SFK-330/676190849608_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "M204-SFK-330",
+                        "colour":  "TEAL BLUSH ROSE GOLD",
+                        "image":  "/westgroupe/SFK-330/676190849646_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016125",
+                        "code":  "M207-SFK-330",
+                        "colour":  "MAUVE LILAC GOLD",
+                        "image":  "/westgroupe/SFK-330/676190849523_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "M207-SFK-330",
+                        "colour":  "MAUVE LILAC GOLD",
+                        "image":  "/westgroupe/SFK-330/676190849561_W00.JPG"
+                    }
+                ],
+    "sfk-297":  [
+                    {
+                        "size":  "47.016125",
+                        "code":  "S301-SFK-297",
+                        "colour":  "NAVY ORANGE CHECK",
+                        "image":  "/westgroupe/SFK-297/676190734386_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "S301-SFK-297",
+                        "colour":  "NAVY ORANGE CHECK",
+                        "image":  "/westgroupe/SFK-297/676190734423_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016125",
+                        "code":  "S303-SFK-297",
+                        "colour":  "GREY COBALT CHECK",
+                        "image":  "/westgroupe/SFK-297/676190734461_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "S303-SFK-297",
+                        "colour":  "GREY COBALT CHECK",
+                        "image":  "/westgroupe/SFK-297/676190734508_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016125",
+                        "code":  "S316-SFK-297",
+                        "colour":  "PINE BLACK CHECK",
+                        "image":  "/westgroupe/SFK-297/676190734546_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016130",
+                        "code":  "S316-SFK-297",
+                        "colour":  "PINE BLACK CHECK",
+                        "image":  "/westgroupe/SFK-297/676190734584_W00.JPG"
+                    }
+                ],
+    "sfk-322":  [
+                    {
+                        "size":  "47.016130",
+                        "code":  "S404-SFK-322",
+                        "colour":  "TEAL BLUE",
+                        "image":  "/westgroupe/SFK-322/676190792041_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016135",
+                        "code":  "S404-SFK-322",
+                        "colour":  "TEAL BLUE",
+                        "image":  "/westgroupe/SFK-322/676190792089_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "S407-SFK-322",
+                        "colour":  "MAUVE MULTI",
+                        "image":  "/westgroupe/SFK-322/676190792126_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "S408-SFK-322",
+                        "colour":  "FUCHSIA",
+                        "image":  "/westgroupe/SFK-322/676190791969_W00.JPG"
+                    },
+                    {
+                        "size":  "49.016135",
+                        "code":  "S408-SFK-322",
+                        "colour":  "FUCHSIA",
+                        "image":  "/westgroupe/SFK-322/676190792003_W00.JPG"
+                    }
+                ],
+    "sfk-296":  [
+                    {
+                        "size":  "45.016120",
+                        "code":  "S401-SFK-296",
+                        "colour":  "IRIS IRIDESCENT",
+                        "image":  "/westgroupe/SFK-296/676190718447_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016120",
+                        "code":  "S409-SFK-296",
+                        "colour":  "APRICOT IRIDESCENT",
+                        "image":  "/westgroupe/SFK-296/676190718522_W00.JPG"
+                    },
+                    {
+                        "size":  "45.016120",
+                        "code":  "S416-SFK-296",
+                        "colour":  "MINT IRIDESCENT",
+                        "image":  "/westgroupe/SFK-296/676190718607_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016125",
+                        "code":  "S416-SFK-296",
+                        "colour":  "MINT IRIDESCENT",
+                        "image":  "/westgroupe/SFK-296/676190718645_W00.JPG"
+                    }
+                ],
+    "sfk-253":  [
+                    {
+                        "size":  "46.016125",
+                        "code":  "S300-SFK-253",
+                        "colour":  "BLACK RED",
+                        "image":  "/westgroupe/SFK-253/676190599398_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S301-SFK-253",
+                        "colour":  "NAVY LIME",
+                        "image":  "/westgroupe/SFK-253/676190599473_W00.JPG"
+                    },
+                    {
+                        "size":  "46.016125",
+                        "code":  "S303-SFK-253",
+                        "colour":  "GREY BLUE",
+                        "image":  "/westgroupe/SFK-253/676190599558_W00.JPG"
+                    }
+                ],
+    "sfk-319":  [
+                    {
+                        "size":  "43.015120",
+                        "code":  "S304-SFK-319",
+                        "colour":  "AQUA GRADIENT",
+                        "image":  "/westgroupe/SFK-319/676190791341_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015125",
+                        "code":  "S304-SFK-319",
+                        "colour":  "AQUA GRADIENT",
+                        "image":  "/westgroupe/SFK-319/676190791389_W00.JPG"
+                    },
+                    {
+                        "size":  "43.015120",
+                        "code":  "S307-SFK-319",
+                        "colour":  "MAUVE GRADIENT",
+                        "image":  "/westgroupe/SFK-319/676190791266_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015125",
+                        "code":  "S307-SFK-319",
+                        "colour":  "MAUVE GRADIENT",
+                        "image":  "/westgroupe/SFK-319/676190791303_W00.JPG"
+                    },
+                    {
+                        "size":  "43.015120",
+                        "code":  "S309-SFK-319",
+                        "colour":  "ROSE GRADIENT",
+                        "image":  "/westgroupe/SFK-319/676190791181_W00.JPG"
+                    },
+                    {
+                        "size":  "45.015125",
+                        "code":  "S309-SFK-319",
+                        "colour":  "ROSE GRADIENT",
+                        "image":  "/westgroupe/SFK-319/676190791228_W00.JPG"
+                    }
+                ],
+    "sfk-265":  [
+                    {
+                        "size":  "47.015125",
+                        "code":  "S407-SFK-265",
+                        "colour":  "MAUVE LILAC",
+                        "image":  "/westgroupe/SFK-265/676190640687_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015125",
+                        "code":  "S409-SFK-265",
+                        "colour":  "ROSE TORTOISE IRIS",
+                        "image":  "/westgroupe/SFK-265/676190640762_W00.JPG"
+                    },
+                    {
+                        "size":  "49.015130",
+                        "code":  "S409-SFK-265",
+                        "colour":  "ROSE TORTOISE IRIS",
+                        "image":  "/westgroupe/SFK-265/676190640809_W00.JPG"
+                    },
+                    {
+                        "size":  "47.015125",
+                        "code":  "S410-SFK-265",
+                        "colour":  "RASPBERRY ROSE",
+                        "image":  "/westgroupe/SFK-265/676190640847_W00.JPG"
+                    },
+                    {
+                        "size":  "49.015130",
+                        "code":  "S410-SFK-265",
+                        "colour":  "RASPBERRY ROSE",
+                        "image":  "/westgroupe/SFK-265/676190640885_W00.JPG"
+                    }
+                ],
+    "sfk-261":  [
+                    {
+                        "size":  "46.014125",
+                        "code":  "S401-SFK-261",
+                        "colour":  "BLUE MANGO",
+                        "image":  "/westgroupe/SFK-261/676190639940_W00.JPG"
+                    },
+                    {
+                        "size":  "48.014130",
+                        "code":  "S401-SFK-261",
+                        "colour":  "BLUE MANGO",
+                        "image":  "/westgroupe/SFK-261/676190639988_W00.JPG"
+                    },
+                    {
+                        "size":  "46.014125",
+                        "code":  "S403-SFK-261",
+                        "colour":  "GREY TEAL",
+                        "image":  "/westgroupe/SFK-261/676190640021_W00.JPG"
+                    },
+                    {
+                        "size":  "48.014130",
+                        "code":  "S413-SFK-261",
+                        "colour":  "CRYSTAL MARMALADE",
+                        "image":  "/westgroupe/SFK-261/676190640144_W00.JPG"
+                    }
+                ],
+    "sfk-266":  [
+                    {
+                        "size":  "46.017125",
+                        "code":  "M101-SFK-266",
+                        "colour":  "NAVY LIME",
+                        "image":  "/westgroupe/SFK-266/676190641042_W00.JPG"
+                    },
+                    {
+                        "size":  "44.017120",
+                        "code":  "M103-SFK-266",
+                        "colour":  "CHARCOAL ORANGE",
+                        "image":  "/westgroupe/SFK-266/676190641080_W00.JPG"
+                    },
+                    {
+                        "size":  "46.017125",
+                        "code":  "M103-SFK-266",
+                        "colour":  "CHARCOAL ORANGE",
+                        "image":  "/westgroupe/SFK-266/676190641127_W00.JPG"
+                    }
+                ],
+    "sfk-247":  [
+                    {
+                        "size":  "48.015130",
+                        "code":  "S408-SFK-247",
+                        "colour":  "FUCHSIA LAVENDER",
+                        "image":  "/westgroupe/SFK-247/676190587845_W00.JPG"
+                    }
+                ],
+    "sfk-279":  [
+                    {
+                        "size":  "45.017125",
+                        "code":  "S403-SFK-279",
+                        "colour":  "CHARCOAL CAMO LIME",
+                        "image":  "/westgroupe/SFK-279/676190683011_W00.JPG"
+                    },
+                    {
+                        "size":  "45.017125",
+                        "code":  "S416-SFK-279",
+                        "colour":  "GREEN CAMO GREY",
+                        "image":  "/westgroupe/SFK-279/676190683097_W00.JPG"
+                    }
+                ],
+    "sfk-262":  [
+                    {
+                        "size":  "45.017125",
+                        "code":  "M204-SFK-262",
+                        "colour":  "TURQUOISE ROSE GOLD",
+                        "image":  "/westgroupe/SFK-262/676190639445_W00.JPG"
+                    }
+                ],
+    "sfk-267":  [
+                    {
+                        "size":  "47.016130",
+                        "code":  "S404-SFK-267",
+                        "colour":  "TURQUOISE SHIMMER",
+                        "image":  "/westgroupe/SFK-267/676190641226_W00.JPG"
+                    },
+                    {
+                        "size":  "47.016130",
+                        "code":  "S409-SFK-267",
+                        "colour":  "PINK SHIMMER",
+                        "image":  "/westgroupe/SFK-267/676190641387_W00.JPG"
+                    }
+                ]
+}

@@ -1,0 +1,1920 @@
+﻿{
+    "sf-1190t":  [
+                     {
+                         "size":  "51.017135",
+                         "code":  "S100-SF-1190T",
+                         "colour":  "GOLD BLACK",
+                         "image":  "/westgroupe/SF-1190T/676190845457_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "S100-SF-1190T",
+                         "colour":  "GOLD BLACK",
+                         "image":  "/westgroupe/SF-1190T/676190845495_W00.JPG"
+                     },
+                     {
+                         "size":  "51.017135",
+                         "code":  "S102-SF-1190T",
+                         "colour":  "MOCHA GOLD",
+                         "image":  "/westgroupe/SF-1190T/676190845372_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "S102-SF-1190T",
+                         "colour":  "MOCHA GOLD",
+                         "image":  "/westgroupe/SF-1190T/676190845419_W00.JPG"
+                     },
+                     {
+                         "size":  "51.017135",
+                         "code":  "S109-SF-1190T",
+                         "colour":  "ROSE GOLD GREY",
+                         "image":  "/westgroupe/SF-1190T/676190845297_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "S109-SF-1190T",
+                         "colour":  "ROSE GOLD GREY",
+                         "image":  "/westgroupe/SF-1190T/676190845334_W00.JPG"
+                     }
+                 ],
+    "sf-1188t":  [
+                     {
+                         "size":  "56.018145",
+                         "code":  "M100-SF-1188T",
+                         "colour":  "BLACK GREEN",
+                         "image":  "/westgroupe/SF-1188T/676190838367_W00.JPG"
+                     },
+                     {
+                         "size":  "58.018150",
+                         "code":  "M100-SF-1188T",
+                         "colour":  "BLACK GREEN",
+                         "image":  "/westgroupe/SF-1188T/676190838404_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018145",
+                         "code":  "M101-SF-1188T",
+                         "colour":  "BLUE RED",
+                         "image":  "/westgroupe/SF-1188T/676190838282_W00.JPG"
+                     },
+                     {
+                         "size":  "58.018150",
+                         "code":  "M101-SF-1188T",
+                         "colour":  "BLUE RED",
+                         "image":  "/westgroupe/SF-1188T/676190838329_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018145",
+                         "code":  "M102-SF-1188T",
+                         "colour":  "BROWN MUSTARD",
+                         "image":  "/westgroupe/SF-1188T/676190838206_W00.JPG"
+                     },
+                     {
+                         "size":  "58.018150",
+                         "code":  "M102-SF-1188T",
+                         "colour":  "BROWN MUSTARD",
+                         "image":  "/westgroupe/SF-1188T/676190838244_W00.JPG"
+                     }
+                 ],
+    "sf-1184t":  [
+                     {
+                         "size":  "51.017135",
+                         "code":  "M201-SF-1184T",
+                         "colour":  "DUSK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1184T/676190772968_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "M201-SF-1184T",
+                         "colour":  "DUSK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1184T/676190773002_W00.JPG"
+                     },
+                     {
+                         "size":  "51.017135",
+                         "code":  "M203-SF-1184T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1184T/676190772807_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "M203-SF-1184T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1184T/676190772845_W00.JPG"
+                     },
+                     {
+                         "size":  "51.017135",
+                         "code":  "M209-SF-1184T",
+                         "colour":  "PINK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1184T/676190772883_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "M209-SF-1184T",
+                         "colour":  "PINK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1184T/676190772920_W00.JPG"
+                     }
+                 ],
+    "sf-1183t":  [
+                     {
+                         "size":  "53.018140",
+                         "code":  "M101-SF-1183T",
+                         "colour":  "NAVY GREY",
+                         "image":  "/westgroupe/SF-1183T/676190764208_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018145",
+                         "code":  "M101-SF-1183T",
+                         "colour":  "NAVY GREY",
+                         "image":  "/westgroupe/SF-1183T/676190764246_W00.JPG"
+                     },
+                     {
+                         "size":  "53.018140",
+                         "code":  "M103-SF-1183T",
+                         "colour":  "GREY",
+                         "image":  "/westgroupe/SF-1183T/676190764284_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018145",
+                         "code":  "M103-SF-1183T",
+                         "colour":  "GREY",
+                         "image":  "/westgroupe/SF-1183T/676190764321_W00.JPG"
+                     },
+                     {
+                         "size":  "53.018140",
+                         "code":  "M200-SF-1183T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1183T/676190764123_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018145",
+                         "code":  "M200-SF-1183T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1183T/676190764161_W00.JPG"
+                     }
+                 ],
+    "sf-1145t":  [
+                     {
+                         "size":  "54.016140",
+                         "code":  "M100-SF-1145T",
+                         "colour":  "BLACK",
+                         "image":  "/westgroupe/SF-1145T/676190638189_W00.JPG"
+                     },
+                     {
+                         "size":  "56.016145",
+                         "code":  "M100-SF-1145T",
+                         "colour":  "BLACK",
+                         "image":  "/westgroupe/SF-1145T/676190638226_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "M103-SF-1145T",
+                         "colour":  "GREY",
+                         "image":  "/westgroupe/SF-1145T/676190638264_W00.JPG"
+                     },
+                     {
+                         "size":  "56.016145",
+                         "code":  "M103-SF-1145T",
+                         "colour":  "GREY",
+                         "image":  "/westgroupe/SF-1145T/676190638301_W00.JPG"
+                     }
+                 ],
+    "sf-1176t":  [
+                     {
+                         "size":  "54.017140",
+                         "code":  "M100-SF-1176T",
+                         "colour":  "BLACK CHARCOAL",
+                         "image":  "/westgroupe/SF-1176T/676190742664_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M100-SF-1176T",
+                         "colour":  "BLACK CHARCOAL",
+                         "image":  "/westgroupe/SF-1176T/676190742701_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "M101-SF-1176T",
+                         "colour":  "NAVY SILVER",
+                         "image":  "/westgroupe/SF-1176T/676190742824_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M101-SF-1176T",
+                         "colour":  "NAVY SILVER",
+                         "image":  "/westgroupe/SF-1176T/676190742862_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "M116-SF-1176T",
+                         "colour":  "KHAKI COPPER",
+                         "image":  "/westgroupe/SF-1176T/676190742749_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M116-SF-1176T",
+                         "colour":  "KHAKI COPPER",
+                         "image":  "/westgroupe/SF-1176T/676190742787_W00.JPG"
+                     }
+                 ],
+    "sf-1168t":  [
+                     {
+                         "size":  "53.018140",
+                         "code":  "M200-SF-1168T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1168T/676190720563_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018145",
+                         "code":  "M200-SF-1168T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1168T/676190720600_W00.JPG"
+                     },
+                     {
+                         "size":  "53.018140",
+                         "code":  "M201-SF-1168T",
+                         "colour":  "NAVY GREY",
+                         "image":  "/westgroupe/SF-1168T/676190720648_W00.JPG"
+                     },
+                     {
+                         "size":  "53.018140",
+                         "code":  "M216-SF-1168T",
+                         "colour":  "KHAKI GREY",
+                         "image":  "/westgroupe/SF-1168T/676190720488_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018145",
+                         "code":  "M216-SF-1168T",
+                         "colour":  "KHAKI GREY",
+                         "image":  "/westgroupe/SF-1168T/676190720525_W00.JPG"
+                     }
+                 ],
+    "sf-1132t":  [
+                     {
+                         "size":  "53.017140",
+                         "code":  "M101-SF-1132T",
+                         "colour":  "NAVY SILVER",
+                         "image":  "/westgroupe/SF-1132T/676190589054_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017145",
+                         "code":  "M101-SF-1132T",
+                         "colour":  "NAVY SILVER",
+                         "image":  "/westgroupe/SF-1132T/676190589092_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "M200-SF-1132T",
+                         "colour":  "BLACK GUNMETAL",
+                         "image":  "/westgroupe/SF-1132T/676190589139_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017145",
+                         "code":  "M200-SF-1132T",
+                         "colour":  "BLACK GUNMETAL",
+                         "image":  "/westgroupe/SF-1132T/676190589177_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "M202-SF-1132T",
+                         "colour":  "BROWN BLACK",
+                         "image":  "/westgroupe/SF-1132T/676190589214_W00.JPG"
+                     }
+                 ],
+    "sf-1192t":  [
+                     {
+                         "size":  "53.018140",
+                         "code":  "M202-SF-1192T",
+                         "colour":  "BROWN BLACK",
+                         "image":  "/westgroupe/SF-1192T/676190878875_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018145",
+                         "code":  "M202-SF-1192T",
+                         "colour":  "BROWN BLACK",
+                         "image":  "/westgroupe/SF-1192T/676190878912_W00.JPG"
+                     },
+                     {
+                         "size":  "53.018140",
+                         "code":  "M203-SF-1192T",
+                         "colour":  "CHARCOAL GREY",
+                         "image":  "/westgroupe/SF-1192T/676190879032_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018145",
+                         "code":  "M203-SF-1192T",
+                         "colour":  "CHARCOAL GREY",
+                         "image":  "/westgroupe/SF-1192T/676190879070_W00.JPG"
+                     },
+                     {
+                         "size":  "53.018140",
+                         "code":  "M216-SF-1192T",
+                         "colour":  "OLIVE GREY",
+                         "image":  "/westgroupe/SF-1192T/676190878950_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018145",
+                         "code":  "M216-SF-1192T",
+                         "colour":  "OLIVE GREY",
+                         "image":  "/westgroupe/SF-1192T/676190878998_W00.JPG"
+                     }
+                 ],
+    "sf-1153t":  [
+                     {
+                         "size":  "52.016135",
+                         "code":  "M201-SF-1153T",
+                         "colour":  "BLUE ROSE GOLD",
+                         "image":  "/westgroupe/SF-1153T/676190661477_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "M201-SF-1153T",
+                         "colour":  "BLUE ROSE GOLD",
+                         "image":  "/westgroupe/SF-1153T/676190661514_W00.JPG"
+                     },
+                     {
+                         "size":  "52.016135",
+                         "code":  "M203-SF-1153T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1153T/676190661316_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "M203-SF-1153T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1153T/676190661354_W00.JPG"
+                     },
+                     {
+                         "size":  "52.016135",
+                         "code":  "M207-SF-1153T",
+                         "colour":  "AUBERGINE LIGHT GOLD",
+                         "image":  "/westgroupe/SF-1153T/676190661392_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "M207-SF-1153T",
+                         "colour":  "AUBERGINE LIGHT GOLD",
+                         "image":  "/westgroupe/SF-1153T/676190661439_W00.JPG"
+                     }
+                 ],
+    "sf-1155t":  [
+                     {
+                         "size":  "55.017145",
+                         "code":  "M100-SF-1155T",
+                         "colour":  "BLACK RED",
+                         "image":  "/westgroupe/SF-1155T/676190663525_W00.JPG"
+                     }
+                 ],
+    "sf-1203t":  [
+                     {
+                         "size":  "53.017135",
+                         "code":  "M200-SF-1203T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1203T/881814536547_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017140",
+                         "code":  "M200-SF-1203T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1203T/881814536585_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017135",
+                         "code":  "M203-SF-1203T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1203T/881814536622_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017140",
+                         "code":  "M203-SF-1203T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1203T/881814536660_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017135",
+                         "code":  "S109-SF-1203T",
+                         "colour":  "ROSE GOLD CREAM",
+                         "image":  "/westgroupe/SF-1203T/881814536462_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017140",
+                         "code":  "S109-SF-1203T",
+                         "colour":  "ROSE GOLD CREAM",
+                         "image":  "/westgroupe/SF-1203T/881814536509_W00.JPG"
+                     }
+                 ],
+    "sf-1180t":  [
+                     {
+                         "size":  "53.016135",
+                         "code":  "S200-SF-1180T",
+                         "colour":  "BLACK MARBLE GOLD",
+                         "image":  "/westgroupe/SF-1180T/676190767780_W00.JPG"
+                     },
+                     {
+                         "size":  "55.016140",
+                         "code":  "S200-SF-1180T",
+                         "colour":  "BLACK MARBLE GOLD",
+                         "image":  "/westgroupe/SF-1180T/676190767827_W00.JPG"
+                     },
+                     {
+                         "size":  "53.016135",
+                         "code":  "S202-SF-1180T",
+                         "colour":  "BROWN GRADIENT GOLD",
+                         "image":  "/westgroupe/SF-1180T/676190767940_W00.JPG"
+                     },
+                     {
+                         "size":  "55.016140",
+                         "code":  "S202-SF-1180T",
+                         "colour":  "BROWN GRADIENT GOLD",
+                         "image":  "/westgroupe/SF-1180T/676190767988_W00.JPG"
+                     },
+                     {
+                         "size":  "53.016135",
+                         "code":  "S209-SF-1180T",
+                         "colour":  "BLUSH GRADIENT ROSE GOLD",
+                         "image":  "/westgroupe/SF-1180T/676190767865_W00.JPG"
+                     },
+                     {
+                         "size":  "55.016140",
+                         "code":  "S209-SF-1180T",
+                         "colour":  "BLUSH GRADIENT ROSE GOLD",
+                         "image":  "/westgroupe/SF-1180T/676190767902_W00.JPG"
+                     }
+                 ],
+    "sf-1142t":  [
+                     {
+                         "size":  "54.016140",
+                         "code":  "S200-SF-1142T",
+                         "colour":  "BLACK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1142T/676190637137_W00.JPG"
+                     },
+                     {
+                         "size":  "52.016135",
+                         "code":  "S209-SF-1142T",
+                         "colour":  "ROSE GOLD",
+                         "image":  "/westgroupe/SF-1142T/676190637250_W00.JPG"
+                     }
+                 ],
+    "sf-1175t":  [
+                     {
+                         "size":  "52.018135",
+                         "code":  "M203-SF-1175T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1175T/676190742565_W00.JPG"
+                     },
+                     {
+                         "size":  "52.018135",
+                         "code":  "M204-SF-1175T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1175T/676190742480_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "M204-SF-1175T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1175T/676190742527_W00.JPG"
+                     },
+                     {
+                         "size":  "52.018135",
+                         "code":  "M214-SF-1175T",
+                         "colour":  "SAND SILVER",
+                         "image":  "/westgroupe/SF-1175T/676190742404_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "M214-SF-1175T",
+                         "colour":  "SAND SILVER",
+                         "image":  "/westgroupe/SF-1175T/676190742442_W00.JPG"
+                     }
+                 ],
+    "sf-1157t":  [
+                     {
+                         "size":  "57.016140",
+                         "code":  "M100-SF-1157T",
+                         "colour":  "BLACK CHAMPAGNE",
+                         "image":  "/westgroupe/SF-1157T/676190683677_W00.JPG"
+                     },
+                     {
+                         "size":  "59.016145",
+                         "code":  "M116-SF-1157T",
+                         "colour":  "GREEN",
+                         "image":  "/westgroupe/SF-1157T/676190683875_W00.JPG"
+                     }
+                 ],
+    "sf-1148t":  [
+                     {
+                         "size":  "52.016135",
+                         "code":  "M203-SF-1148T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1148T/676190648409_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "M203-SF-1148T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1148T/676190648447_W00.JPG"
+                     },
+                     {
+                         "size":  "52.016135",
+                         "code":  "M204-SF-1148T",
+                         "colour":  "TEAL LIGHT GUN",
+                         "image":  "/westgroupe/SF-1148T/676190648560_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "M204-SF-1148T",
+                         "colour":  "TEAL LIGHT GUN",
+                         "image":  "/westgroupe/SF-1148T/676190648607_W00.JPG"
+                     },
+                     {
+                         "size":  "52.016135",
+                         "code":  "M207-SF-1148T",
+                         "colour":  "PERIWINKLE LILAC",
+                         "image":  "/westgroupe/SF-1148T/676190648485_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "M207-SF-1148T",
+                         "colour":  "PERIWINKLE LILAC",
+                         "image":  "/westgroupe/SF-1148T/676190648522_W00.JPG"
+                     }
+                 ],
+    "sf-1158t":  [
+                     {
+                         "size":  "56.019140",
+                         "code":  "M100-SF-1158T",
+                         "colour":  "BLACK BROWN",
+                         "image":  "/westgroupe/SF-1158T/676190684230_W00.JPG"
+                     },
+                     {
+                         "size":  "58.019145",
+                         "code":  "M200-SF-1158T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1158T/676190684117_W00.JPG"
+                     }
+                 ],
+    "sf-1191t":  [
+                     {
+                         "size":  "53.017140",
+                         "code":  "M100-SF-1191T",
+                         "colour":  "MATTE BLACK",
+                         "image":  "/westgroupe/SF-1191T/676190868036_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017145",
+                         "code":  "M100-SF-1191T",
+                         "colour":  "MATTE BLACK",
+                         "image":  "/westgroupe/SF-1191T/676190868074_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "M101-SF-1191T",
+                         "colour":  "MATTE NAVY",
+                         "image":  "/westgroupe/SF-1191T/676190868111_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017145",
+                         "code":  "M101-SF-1191T",
+                         "colour":  "MATTE NAVY",
+                         "image":  "/westgroupe/SF-1191T/676190868159_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "M103-SF-1191T",
+                         "colour":  "MATTE GREY",
+                         "image":  "/westgroupe/SF-1191T/676190868197_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017145",
+                         "code":  "M103-SF-1191T",
+                         "colour":  "MATTE GREY",
+                         "image":  "/westgroupe/SF-1191T/676190868234_W00.JPG"
+                     }
+                 ],
+    "sf-1200t":  [
+                     {
+                         "size":  "52.016135",
+                         "code":  "S401-SF-1200T",
+                         "colour":  "BLUE GOLD",
+                         "image":  "/westgroupe/SF-1200T/881814536226_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "S401-SF-1200T",
+                         "colour":  "BLUE GOLD",
+                         "image":  "/westgroupe/SF-1200T/881814536264_W00.JPG"
+                     },
+                     {
+                         "size":  "52.016135",
+                         "code":  "S403-SF-1200T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1200T/881814536301_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "S403-SF-1200T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1200T/881814536349_W00.JPG"
+                     },
+                     {
+                         "size":  "52.016135",
+                         "code":  "S409-SF-1200T",
+                         "colour":  "BLUSH ROSE GOLD",
+                         "image":  "/westgroupe/SF-1200T/881814536387_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "S409-SF-1200T",
+                         "colour":  "BLUSH ROSE GOLD",
+                         "image":  "/westgroupe/SF-1200T/881814536424_W00.JPG"
+                     }
+                 ],
+    "sf-1202t":  [
+                     {
+                         "size":  "55.017145",
+                         "code":  "M100-SF-1202T",
+                         "colour":  "MATTE BLACK",
+                         "image":  "/westgroupe/SF-1202T/676190897449_W00.JPG"
+                     },
+                     {
+                         "size":  "57.017150",
+                         "code":  "M100-SF-1202T",
+                         "colour":  "MATTE BLACK",
+                         "image":  "/westgroupe/SF-1202T/676190897487_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017145",
+                         "code":  "M101-SF-1202T",
+                         "colour":  "MATTE BLUE",
+                         "image":  "/westgroupe/SF-1202T/676190897609_W00.JPG"
+                     },
+                     {
+                         "size":  "57.017150",
+                         "code":  "M101-SF-1202T",
+                         "colour":  "MATTE BLUE",
+                         "image":  "/westgroupe/SF-1202T/676190897647_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017145",
+                         "code":  "M103-SF-1202T",
+                         "colour":  "MATTE GUN",
+                         "image":  "/westgroupe/SF-1202T/676190897524_W00.JPG"
+                     },
+                     {
+                         "size":  "57.017150",
+                         "code":  "M103-SF-1202T",
+                         "colour":  "MATTE GUN",
+                         "image":  "/westgroupe/SF-1202T/676190897562_W00.JPG"
+                     }
+                 ],
+    "sf-1161t":  [
+                     {
+                         "size":  "57.018145",
+                         "code":  "M103-SF-1161T",
+                         "colour":  "GREY RED",
+                         "image":  "/westgroupe/SF-1161T/676190687453_W00.JPG"
+                     },
+                     {
+                         "size":  "59.018150",
+                         "code":  "M103-SF-1161T",
+                         "colour":  "GREY RED",
+                         "image":  "/westgroupe/SF-1161T/676190687491_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M200-SF-1161T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1161T/676190687293_W00.JPG"
+                     },
+                     {
+                         "size":  "59.018150",
+                         "code":  "M200-SF-1161T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1161T/676190687330_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M216-SF-1161T",
+                         "colour":  "OLIVE BLACK",
+                         "image":  "/westgroupe/SF-1161T/676190687378_W00.JPG"
+                     },
+                     {
+                         "size":  "59.018150",
+                         "code":  "M216-SF-1161T",
+                         "colour":  "OLIVE BLACK",
+                         "image":  "/westgroupe/SF-1161T/676190687415_W00.JPG"
+                     }
+                 ],
+    "sf-1186t":  [
+                     {
+                         "size":  "51.018135",
+                         "code":  "S200-SF-1186T",
+                         "colour":  "BLACK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1186T/676190785197_W00.JPG"
+                     },
+                     {
+                         "size":  "53.018140",
+                         "code":  "S200-SF-1186T",
+                         "colour":  "BLACK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1186T/676190785234_W00.JPG"
+                     },
+                     {
+                         "size":  "51.018135",
+                         "code":  "S202-SF-1186T",
+                         "colour":  "CHOCOLATE BROWN",
+                         "image":  "/westgroupe/SF-1186T/676190785111_W00.JPG"
+                     },
+                     {
+                         "size":  "53.018140",
+                         "code":  "S202-SF-1186T",
+                         "colour":  "CHOCOLATE BROWN",
+                         "image":  "/westgroupe/SF-1186T/676190785159_W00.JPG"
+                     },
+                     {
+                         "size":  "51.018135",
+                         "code":  "S207-SF-1186T",
+                         "colour":  "AUBERGINE LILAC",
+                         "image":  "/westgroupe/SF-1186T/676190785272_W00.JPG"
+                     },
+                     {
+                         "size":  "53.018140",
+                         "code":  "S207-SF-1186T",
+                         "colour":  "AUBERGINE LILAC",
+                         "image":  "/westgroupe/SF-1186T/676190785319_W00.JPG"
+                     }
+                 ],
+    "sf-1174t":  [
+                     {
+                         "size":  "59.018150",
+                         "code":  "M100-SF-1174T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1174T/676190739442_W00.JPG"
+                     },
+                     {
+                         "size":  "61.018155",
+                         "code":  "M100-SF-1174T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1174T/676190739480_W00.JPG"
+                     },
+                     {
+                         "size":  "59.018150",
+                         "code":  "M102-SF-1174T",
+                         "colour":  "BROWN BLACK",
+                         "image":  "/westgroupe/SF-1174T/676190739602_W00.JPG"
+                     },
+                     {
+                         "size":  "59.018150",
+                         "code":  "M103-SF-1174T",
+                         "colour":  "GREY",
+                         "image":  "/westgroupe/SF-1174T/676190739527_W00.JPG"
+                     },
+                     {
+                         "size":  "61.018155",
+                         "code":  "M103-SF-1174T",
+                         "colour":  "GREY",
+                         "image":  "/westgroupe/SF-1174T/676190739565_W00.JPG"
+                     }
+                 ],
+    "sf-1171t":  [
+                     {
+                         "size":  "52.017135",
+                         "code":  "M200-SF-1171T",
+                         "colour":  "BLACK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1171T/676190729740_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "M200-SF-1171T",
+                         "colour":  "BLACK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1171T/676190729788_W00.JPG"
+                     },
+                     {
+                         "size":  "52.017135",
+                         "code":  "M204-SF-1171T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1171T/676190729665_W00.JPG"
+                     }
+                 ],
+    "sf-1178t":  [
+                     {
+                         "size":  "56.018140",
+                         "code":  "S111-SF-1178T",
+                         "colour":  "GOLD",
+                         "image":  "/westgroupe/SF-1178T/676190751802_W00.JPG"
+                     },
+                     {
+                         "size":  "58.018145",
+                         "code":  "S111-SF-1178T",
+                         "colour":  "GOLD",
+                         "image":  "/westgroupe/SF-1178T/676190751840_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018140",
+                         "code":  "S203-SF-1178T",
+                         "colour":  "GUN BLACK",
+                         "image":  "/westgroupe/SF-1178T/676190751642_W00.JPG"
+                     },
+                     {
+                         "size":  "58.018145",
+                         "code":  "S203-SF-1178T",
+                         "colour":  "GUN BLACK",
+                         "image":  "/westgroupe/SF-1178T/676190751680_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018140",
+                         "code":  "S205-SF-1178T",
+                         "colour":  "SILVER GREY",
+                         "image":  "/westgroupe/SF-1178T/676190751727_W00.JPG"
+                     },
+                     {
+                         "size":  "58.018145",
+                         "code":  "S205-SF-1178T",
+                         "colour":  "SILVER GREY",
+                         "image":  "/westgroupe/SF-1178T/676190751765_W00.JPG"
+                     }
+                 ],
+    "sf-1172t":  [
+                     {
+                         "size":  "56.017145",
+                         "code":  "M100-SF-1172T",
+                         "colour":  "BLACK",
+                         "image":  "/westgroupe/SF-1172T/676190731224_W00.JPG"
+                     },
+                     {
+                         "size":  "58.017150",
+                         "code":  "M100-SF-1172T",
+                         "colour":  "BLACK",
+                         "image":  "/westgroupe/SF-1172T/676190731262_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M103-SF-1172T",
+                         "colour":  "GREY",
+                         "image":  "/westgroupe/SF-1172T/676190731149_W00.JPG"
+                     },
+                     {
+                         "size":  "58.017150",
+                         "code":  "M103-SF-1172T",
+                         "colour":  "GREY",
+                         "image":  "/westgroupe/SF-1172T/676190731187_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M116-SF-1172T",
+                         "colour":  "KHAKI",
+                         "image":  "/westgroupe/SF-1172T/676190731309_W00.JPG"
+                     },
+                     {
+                         "size":  "58.017150",
+                         "code":  "M116-SF-1172T",
+                         "colour":  "KHAKI",
+                         "image":  "/westgroupe/SF-1172T/676190731347_W00.JPG"
+                     }
+                 ],
+    "sf-1204t":  [
+                     {
+                         "size":  "57.017145",
+                         "code":  "M200-SF-1204T",
+                         "colour":  "BLACK DARK GUNMETAL",
+                         "image":  "/westgroupe/SF-1204T/881814546843_W00.JPG"
+                     },
+                     {
+                         "size":  "59.017150",
+                         "code":  "M200-SF-1204T",
+                         "colour":  "BLACK DARK GUNMETAL",
+                         "image":  "/westgroupe/SF-1204T/881814546881_W00.JPG"
+                     },
+                     {
+                         "size":  "57.017145",
+                         "code":  "M201-SF-1204T",
+                         "colour":  "NAVY SILVER",
+                         "image":  "/westgroupe/SF-1204T/881814546928_W00.JPG"
+                     },
+                     {
+                         "size":  "59.017150",
+                         "code":  "M201-SF-1204T",
+                         "colour":  "NAVY SILVER",
+                         "image":  "/westgroupe/SF-1204T/881814546966_W00.JPG"
+                     },
+                     {
+                         "size":  "57.017145",
+                         "code":  "M203-SF-1204T",
+                         "colour":  "CHARCOAL GUNMETAL",
+                         "image":  "/westgroupe/SF-1204T/881814547000_W00.JPG"
+                     },
+                     {
+                         "size":  "59.017150",
+                         "code":  "M203-SF-1204T",
+                         "colour":  "CHARCOAL GUNMETAL",
+                         "image":  "/westgroupe/SF-1204T/881814547048_W00.JPG"
+                     }
+                 ],
+    "sf-1165t":  [
+                     {
+                         "size":  "54.017140",
+                         "code":  "M100-SF-1165T",
+                         "colour":  "BLACK",
+                         "image":  "/westgroupe/SF-1165T/676190711509_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "M103-SF-1165T",
+                         "colour":  "GREY",
+                         "image":  "/westgroupe/SF-1165T/676190711585_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M103-SF-1165T",
+                         "colour":  "GREY",
+                         "image":  "/westgroupe/SF-1165T/676190711622_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "M116-SF-1165T",
+                         "colour":  "PINE",
+                         "image":  "/westgroupe/SF-1165T/676190711660_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M116-SF-1165T",
+                         "colour":  "PINE",
+                         "image":  "/westgroupe/SF-1165T/676190711707_W00.JPG"
+                     }
+                 ],
+    "sf-1147t":  [
+                     {
+                         "size":  "55.017140",
+                         "code":  "S200-SF-1147T",
+                         "colour":  "BLACK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1147T/676190642711_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017140",
+                         "code":  "S203-SF-1147T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1147T/676190642636_W00.JPG"
+                     }
+                 ],
+    "sf-1169t":  [
+                     {
+                         "size":  "54.016135",
+                         "code":  "M200-SF-1169T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1169T/676190719468_W00.JPG"
+                     },
+                     {
+                         "size":  "56.016140",
+                         "code":  "M200-SF-1169T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1169T/676190719505_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016135",
+                         "code":  "M204-SF-1169T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1169T/676190719543_W00.JPG"
+                     },
+                     {
+                         "size":  "56.016140",
+                         "code":  "M204-SF-1169T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1169T/676190719581_W00.JPG"
+                     }
+                 ],
+    "sf-1160t":  [
+                     {
+                         "size":  "56.016140",
+                         "code":  "S301-SF-1160T",
+                         "colour":  "BLUE GOLD",
+                         "image":  "/westgroupe/SF-1160T/676190686227_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016135",
+                         "code":  "S407-SF-1160T",
+                         "colour":  "ORCHID ROSE GOLD",
+                         "image":  "/westgroupe/SF-1160T/676190686340_W00.JPG"
+                     },
+                     {
+                         "size":  "56.016140",
+                         "code":  "S407-SF-1160T",
+                         "colour":  "ORCHID ROSE GOLD",
+                         "image":  "/westgroupe/SF-1160T/676190686388_W00.JPG"
+                     },
+                     {
+                         "size":  "56.016140",
+                         "code":  "S409-SF-1160T",
+                         "colour":  "LAVENDER ROSE GOLD",
+                         "image":  "/westgroupe/SF-1160T/676190686302_W00.JPG"
+                     }
+                 ],
+    "sf-1196t":  [
+                     {
+                         "size":  "52.016135",
+                         "code":  "M200-SF-1196T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1196T/676190888652_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "M200-SF-1196T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1196T/676190888690_W00.JPG"
+                     },
+                     {
+                         "size":  "52.016135",
+                         "code":  "M203-SF-1196T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1196T/676190888737_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "M203-SF-1196T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1196T/676190888775_W00.JPG"
+                     },
+                     {
+                         "size":  "52.016135",
+                         "code":  "M207-SF-1196T",
+                         "colour":  "MULBERRY GOLD",
+                         "image":  "/westgroupe/SF-1196T/676190888812_W00.JPG"
+                     },
+                     {
+                         "size":  "54.016140",
+                         "code":  "M207-SF-1196T",
+                         "colour":  "MULBERRY GOLD",
+                         "image":  "/westgroupe/SF-1196T/676190888850_W00.JPG"
+                     }
+                 ],
+    "sf-1141t":  [
+                     {
+                         "size":  "51.021140",
+                         "code":  "S200-SF-1141T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1141T/676190617269_W00.JPG"
+                     }
+                 ],
+    "sf-1181t":  [
+                     {
+                         "size":  "52.018135",
+                         "code":  "M103-SF-1181T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1181T/676190761948_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "M103-SF-1181T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1181T/676190761986_W00.JPG"
+                     },
+                     {
+                         "size":  "52.018135",
+                         "code":  "M116-SF-1181T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1181T/676190762020_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "M116-SF-1181T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1181T/676190762068_W00.JPG"
+                     },
+                     {
+                         "size":  "52.018135",
+                         "code":  "S100-SF-1181T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1181T/676190761863_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "S100-SF-1181T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1181T/676190761900_W00.JPG"
+                     }
+                 ],
+    "sf-1170t":  [
+                     {
+                         "size":  "54.017140",
+                         "code":  "M116-SF-1170T",
+                         "colour":  "KHAKI BLACK",
+                         "image":  "/westgroupe/SF-1170T/676190726862_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M116-SF-1170T",
+                         "colour":  "KHAKI BLACK",
+                         "image":  "/westgroupe/SF-1170T/676190726909_W00.JPG"
+                     }
+                 ],
+    "sf-1163t":  [
+                     {
+                         "size":  "53.015135",
+                         "code":  "S103-SF-1163T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1163T/676190710984_W00.JPG"
+                     },
+                     {
+                         "size":  "55.015140",
+                         "code":  "S103-SF-1163T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1163T/676190711028_W00.JPG"
+                     },
+                     {
+                         "size":  "53.015135",
+                         "code":  "S104-SF-1163T",
+                         "colour":  "TEAL GUN",
+                         "image":  "/westgroupe/SF-1163T/676190711066_W00.JPG"
+                     },
+                     {
+                         "size":  "55.015140",
+                         "code":  "S104-SF-1163T",
+                         "colour":  "TEAL GUN",
+                         "image":  "/westgroupe/SF-1163T/676190711103_W00.JPG"
+                     },
+                     {
+                         "size":  "53.015135",
+                         "code":  "S107-SF-1163T",
+                         "colour":  "AUBERGINE LILAC",
+                         "image":  "/westgroupe/SF-1163T/676190711141_W00.JPG"
+                     },
+                     {
+                         "size":  "55.015140",
+                         "code":  "S107-SF-1163T",
+                         "colour":  "AUBERGINE LILAC",
+                         "image":  "/westgroupe/SF-1163T/676190711189_W00.JPG"
+                     }
+                 ],
+    "sf-1198t":  [
+                     {
+                         "size":  "56.018145",
+                         "code":  "M200-SF-1198T",
+                         "colour":  "BLACK DARK GUN",
+                         "image":  "/westgroupe/SF-1198T/676190888393_W00.JPG"
+                     },
+                     {
+                         "size":  "58.018150",
+                         "code":  "M200-SF-1198T",
+                         "colour":  "BLACK DARK GUN",
+                         "image":  "/westgroupe/SF-1198T/676190888430_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018145",
+                         "code":  "M201-SF-1198T",
+                         "colour":  "NAVY GUN",
+                         "image":  "/westgroupe/SF-1198T/676190888478_W00.JPG"
+                     },
+                     {
+                         "size":  "58.018150",
+                         "code":  "M201-SF-1198T",
+                         "colour":  "NAVY GUN",
+                         "image":  "/westgroupe/SF-1198T/676190888515_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018145",
+                         "code":  "M203-SF-1198T",
+                         "colour":  "GREY GUN",
+                         "image":  "/westgroupe/SF-1198T/676190888553_W00.JPG"
+                     },
+                     {
+                         "size":  "58.018150",
+                         "code":  "M203-SF-1198T",
+                         "colour":  "GREY GUN",
+                         "image":  "/westgroupe/SF-1198T/676190888591_W00.JPG"
+                     }
+                 ],
+    "sf-1164t":  [
+                     {
+                         "size":  "55.018140",
+                         "code":  "M100-SF-1164T",
+                         "colour":  "BLACK CHARCOAL",
+                         "image":  "/westgroupe/SF-1164T/676190711325_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M100-SF-1164T",
+                         "colour":  "BLACK CHARCOAL",
+                         "image":  "/westgroupe/SF-1164T/676190711363_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018140",
+                         "code":  "M101-SF-1164T",
+                         "colour":  "BLUE CHARCOAL",
+                         "image":  "/westgroupe/SF-1164T/676190711240_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M101-SF-1164T",
+                         "colour":  "BLUE CHARCOAL",
+                         "image":  "/westgroupe/SF-1164T/676190711288_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018140",
+                         "code":  "M103-SF-1164T",
+                         "colour":  "GREY BLACK",
+                         "image":  "/westgroupe/SF-1164T/676190711400_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M103-SF-1164T",
+                         "colour":  "GREY BLACK",
+                         "image":  "/westgroupe/SF-1164T/676190711448_W00.JPG"
+                     }
+                 ],
+    "sf-1146t":  [
+                     {
+                         "size":  "54.017140",
+                         "code":  "M100-SF-1146T",
+                         "colour":  "BLACK",
+                         "image":  "/westgroupe/SF-1146T/676190638912_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M100-SF-1146T",
+                         "colour":  "BLACK",
+                         "image":  "/westgroupe/SF-1146T/676190638950_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "M102-SF-1146T",
+                         "colour":  "BROWN",
+                         "image":  "/westgroupe/SF-1146T/676190638998_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M102-SF-1146T",
+                         "colour":  "BROWN",
+                         "image":  "/westgroupe/SF-1146T/676190639032_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M103-SF-1146T",
+                         "colour":  "CHARCOAL",
+                         "image":  "/westgroupe/SF-1146T/676190639117_W00.JPG"
+                     }
+                 ],
+    "sf-1185t":  [
+                     {
+                         "size":  "57.018145",
+                         "code":  "M200-SF-1185T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1185T/676190773941_W00.JPG"
+                     },
+                     {
+                         "size":  "59.018150",
+                         "code":  "M200-SF-1185T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1185T/676190773989_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M201-SF-1185T",
+                         "colour":  "NAVY GREY",
+                         "image":  "/westgroupe/SF-1185T/676190773866_W00.JPG"
+                     },
+                     {
+                         "size":  "59.018150",
+                         "code":  "M201-SF-1185T",
+                         "colour":  "NAVY GREY",
+                         "image":  "/westgroupe/SF-1185T/676190773903_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M203-SF-1185T",
+                         "colour":  "CHARCOAL GREY",
+                         "image":  "/westgroupe/SF-1185T/676190774023_W00.JPG"
+                     },
+                     {
+                         "size":  "59.018150",
+                         "code":  "M203-SF-1185T",
+                         "colour":  "CHARCOAL GREY",
+                         "image":  "/westgroupe/SF-1185T/676190774061_W00.JPG"
+                     }
+                 ],
+    "sf-1182t":  [
+                     {
+                         "size":  "54.018140",
+                         "code":  "M100-SF-1182T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1182T/676190763324_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018145",
+                         "code":  "M100-SF-1182T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1182T/676190763362_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "M101-SF-1182T",
+                         "colour":  "NAVY GREY",
+                         "image":  "/westgroupe/SF-1182T/676190763409_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018145",
+                         "code":  "M101-SF-1182T",
+                         "colour":  "NAVY GREY",
+                         "image":  "/westgroupe/SF-1182T/676190763447_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "M116-SF-1182T",
+                         "colour":  "OLIVE GREY",
+                         "image":  "/westgroupe/SF-1182T/676190763249_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018145",
+                         "code":  "M116-SF-1182T",
+                         "colour":  "OLIVE GREY",
+                         "image":  "/westgroupe/SF-1182T/676190763287_W00.JPG"
+                     }
+                 ],
+    "sf-1193t":  [
+                     {
+                         "size":  "52.018135",
+                         "code":  "S201-SF-1193T",
+                         "colour":  "BLUE ROSE GOLD",
+                         "image":  "/westgroupe/SF-1193T/676190874709_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "S201-SF-1193T",
+                         "colour":  "BLUE ROSE GOLD",
+                         "image":  "/westgroupe/SF-1193T/676190874747_W00.JPG"
+                     },
+                     {
+                         "size":  "52.018135",
+                         "code":  "S202-SF-1193T",
+                         "colour":  "BROWN COPPER",
+                         "image":  "/westgroupe/SF-1193T/676190874785_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "S202-SF-1193T",
+                         "colour":  "BROWN COPPER",
+                         "image":  "/westgroupe/SF-1193T/676190874822_W00.JPG"
+                     },
+                     {
+                         "size":  "52.018135",
+                         "code":  "S203-SF-1193T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1193T/676190874860_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "S203-SF-1193T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1193T/676190874907_W00.JPG"
+                     }
+                 ],
+    "sf-1177t":  [
+                     {
+                         "size":  "53.017135",
+                         "code":  "S203-SF-1177T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1177T/676190751222_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017140",
+                         "code":  "S203-SF-1177T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1177T/676190751260_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017135",
+                         "code":  "S204-SF-1177T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1177T/676190751147_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017140",
+                         "code":  "S204-SF-1177T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1177T/676190751185_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017135",
+                         "code":  "S210-SF-1177T",
+                         "colour":  "RED GOLD",
+                         "image":  "/westgroupe/SF-1177T/676190751307_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017140",
+                         "code":  "S210-SF-1177T",
+                         "colour":  "RED GOLD",
+                         "image":  "/westgroupe/SF-1177T/676190751345_W00.JPG"
+                     }
+                 ],
+    "sf-1199t":  [
+                     {
+                         "size":  "53.017140",
+                         "code":  "M100-SF-1199T",
+                         "colour":  "BLACK LIGHT GUN",
+                         "image":  "/westgroupe/SF-1199T/676190889031_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017145",
+                         "code":  "M100-SF-1199T",
+                         "colour":  "BLACK LIGHT GUN",
+                         "image":  "/westgroupe/SF-1199T/676190889079_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "M103-SF-1199T",
+                         "colour":  "DARK GREY LIGHT GUN",
+                         "image":  "/westgroupe/SF-1199T/676190889116_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017145",
+                         "code":  "M103-SF-1199T",
+                         "colour":  "DARK GREY LIGHT GUN",
+                         "image":  "/westgroupe/SF-1199T/676190889154_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "M116-SF-1199T",
+                         "colour":  "DARK KHAKI DARK GUN",
+                         "image":  "/westgroupe/SF-1199T/676190889192_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017145",
+                         "code":  "M116-SF-1199T",
+                         "colour":  "DARK KHAKI DARK GUN",
+                         "image":  "/westgroupe/SF-1199T/676190889239_W00.JPG"
+                     }
+                 ],
+    "sf-1195t":  [
+                     {
+                         "size":  "52.017135",
+                         "code":  "S201-SF-1195T",
+                         "colour":  "NAVY SALMON ROSE GOLD",
+                         "image":  "/westgroupe/SF-1195T/676190887792_W00.JPG"
+                     },
+                     {
+                         "size":  "52.017135",
+                         "code":  "S201-SF-1195T",
+                         "colour":  "NAVY SALMON ROSE GOLD",
+                         "image":  "/westgroupe/SF-1195T/676190887792_W01.JPEG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "S201-SF-1195T",
+                         "colour":  "NAVY SALMON ROSE GOLD",
+                         "image":  "/westgroupe/SF-1195T/676190887839_W00.JPEG"
+                     },
+                     {
+                         "size":  "52.017135",
+                         "code":  "S207-SF-1195T",
+                         "colour":  "PURPLE LILAC ROSE GOLD",
+                         "image":  "/westgroupe/SF-1195T/676190887877_W00.JPEG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "S207-SF-1195T",
+                         "colour":  "PURPLE LILAC ROSE GOLD",
+                         "image":  "/westgroupe/SF-1195T/676190887914_W00.JPEG"
+                     },
+                     {
+                         "size":  "52.017135",
+                         "code":  "S214-SF-1195T",
+                         "colour":  "SAND BLACK COPPER",
+                         "image":  "/westgroupe/SF-1195T/676190887952_W00.JPEG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "S214-SF-1195T",
+                         "colour":  "SAND BLACK COPPER",
+                         "image":  "/westgroupe/SF-1195T/676190887990_W00.JPEG"
+                     }
+                 ],
+    "sf-1179t":  [
+                     {
+                         "size":  "55.018140",
+                         "code":  "M100-SF-1179T",
+                         "colour":  "BLACK",
+                         "image":  "/westgroupe/SF-1179T/676190759174_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M100-SF-1179T",
+                         "colour":  "BLACK",
+                         "image":  "/westgroupe/SF-1179T/676190759211_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018140",
+                         "code":  "M103-SF-1179T",
+                         "colour":  "CHARCOAL",
+                         "image":  "/westgroupe/SF-1179T/676190759259_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M103-SF-1179T",
+                         "colour":  "CHARCOAL",
+                         "image":  "/westgroupe/SF-1179T/676190759297_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018140",
+                         "code":  "M116-SF-1179T",
+                         "colour":  "KHAKI",
+                         "image":  "/westgroupe/SF-1179T/676190759334_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M116-SF-1179T",
+                         "colour":  "KHAKI",
+                         "image":  "/westgroupe/SF-1179T/676190759372_W00.JPG"
+                     }
+                 ],
+    "sf-1167t":  [
+                     {
+                         "size":  "54.017140",
+                         "code":  "S203-SF-1167T",
+                         "colour":  "GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1167T/676190717167_W00.JPG"
+                     },
+                     {
+                         "size":  "52.017135",
+                         "code":  "S207-SF-1167T",
+                         "colour":  "AUBERGINE LILAC",
+                         "image":  "/westgroupe/SF-1167T/676190717204_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "S207-SF-1167T",
+                         "colour":  "AUBERGINE LILAC",
+                         "image":  "/westgroupe/SF-1167T/676190717242_W00.JPG"
+                     },
+                     {
+                         "size":  "52.017135",
+                         "code":  "S209-SF-1167T",
+                         "colour":  "BLUSH SILVER",
+                         "image":  "/westgroupe/SF-1167T/676190717280_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "S209-SF-1167T",
+                         "colour":  "BLUSH SILVER",
+                         "image":  "/westgroupe/SF-1167T/676190717327_W00.JPG"
+                     }
+                 ],
+    "sf-1125t":  [
+                     {
+                         "size":  "54.017140",
+                         "code":  "M201-SF-1125T",
+                         "colour":  "BLUE GUNMETAL",
+                         "image":  "/westgroupe/SF-1125T/676190455847_W00.JPG"
+                     }
+                 ],
+    "sf-1162t":  [
+                     {
+                         "size":  "54.018140",
+                         "code":  "M103-SF-1162T",
+                         "colour":  "CHARCOAL GREY",
+                         "image":  "/westgroupe/SF-1162T/676190710885_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018145",
+                         "code":  "M103-SF-1162T",
+                         "colour":  "CHARCOAL GREY",
+                         "image":  "/westgroupe/SF-1162T/676190710922_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "M200-SF-1162T",
+                         "colour":  "BLACK CHARCOAL",
+                         "image":  "/westgroupe/SF-1162T/676190710724_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018145",
+                         "code":  "M200-SF-1162T",
+                         "colour":  "BLACK CHARCOAL",
+                         "image":  "/westgroupe/SF-1162T/676190710762_W00.JPG"
+                     },
+                     {
+                         "size":  "54.018140",
+                         "code":  "M201-SF-1162T",
+                         "colour":  "BLUE CHARCOAL",
+                         "image":  "/westgroupe/SF-1162T/676190710809_W00.JPG"
+                     },
+                     {
+                         "size":  "56.018145",
+                         "code":  "M201-SF-1162T",
+                         "colour":  "BLUE CHARCOAL",
+                         "image":  "/westgroupe/SF-1162T/676190710847_W00.JPG"
+                     }
+                 ],
+    "sf-1201t":  [
+                     {
+                         "size":  "56.017145",
+                         "code":  "M101-SF-1201T",
+                         "colour":  "MATTE NAVY",
+                         "image":  "/westgroupe/SF-1201T/676190897180_W00.JPG"
+                     },
+                     {
+                         "size":  "58.017150",
+                         "code":  "M101-SF-1201T",
+                         "colour":  "MATTE NAVY",
+                         "image":  "/westgroupe/SF-1201T/676190897227_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M102-SF-1201T",
+                         "colour":  "MATTE BROWN",
+                         "image":  "/westgroupe/SF-1201T/676190897265_W00.JPG"
+                     },
+                     {
+                         "size":  "58.017150",
+                         "code":  "M102-SF-1201T",
+                         "colour":  "MATTE BROWN",
+                         "image":  "/westgroupe/SF-1201T/676190897302_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M200-SF-1201T",
+                         "colour":  "MATTE BLACK GREY",
+                         "image":  "/westgroupe/SF-1201T/676190897340_W00.JPG"
+                     },
+                     {
+                         "size":  "58.017150",
+                         "code":  "M200-SF-1201T",
+                         "colour":  "MATTE BLACK GREY",
+                         "image":  "/westgroupe/SF-1201T/676190897388_W00.JPG"
+                     }
+                 ],
+    "sf-1194t":  [
+                     {
+                         "size":  "54.017145",
+                         "code":  "M300-SF-1194T",
+                         "colour":  "MATTE BLACK",
+                         "image":  "/westgroupe/SF-1194T/676190884593_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017150",
+                         "code":  "M300-SF-1194T",
+                         "colour":  "MATTE BLACK",
+                         "image":  "/westgroupe/SF-1194T/676190884630_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017145",
+                         "code":  "M303-SF-1194T",
+                         "colour":  "MATTE GREY",
+                         "image":  "/westgroupe/SF-1194T/676190884432_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017150",
+                         "code":  "M303-SF-1194T",
+                         "colour":  "MATTE GREY",
+                         "image":  "/westgroupe/SF-1194T/676190884470_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017145",
+                         "code":  "S312-SF-1194T",
+                         "colour":  "DEMI AMBER",
+                         "image":  "/westgroupe/SF-1194T/676190884517_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017150",
+                         "code":  "S312-SF-1194T",
+                         "colour":  "DEMI AMBER",
+                         "image":  "/westgroupe/SF-1194T/676190884555_W00.JPG"
+                     }
+                 ],
+    "sf-1189t":  [
+                     {
+                         "size":  "54.017140",
+                         "code":  "M101-SF-1189T",
+                         "colour":  "BLUE SILVER",
+                         "image":  "/westgroupe/SF-1189T/676190850741_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M101-SF-1189T",
+                         "colour":  "BLUE SILVER",
+                         "image":  "/westgroupe/SF-1189T/676190850789_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "M103-SF-1189T",
+                         "colour":  "CHARCOAL BLACK",
+                         "image":  "/westgroupe/SF-1189T/676190850826_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "M103-SF-1189T",
+                         "colour":  "CHARCOAL BLACK",
+                         "image":  "/westgroupe/SF-1189T/676190850864_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "S105-SF-1189T",
+                         "colour":  "SILVER BLACK",
+                         "image":  "/westgroupe/SF-1189T/676190852165_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017145",
+                         "code":  "S105-SF-1189T",
+                         "colour":  "SILVER BLACK",
+                         "image":  "/westgroupe/SF-1189T/676190852202_W00.JPG"
+                     }
+                 ],
+    "sf-1159t":  [
+                     {
+                         "size":  "55.018140",
+                         "code":  "M100-SF-1159T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1159T/676190685633_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M100-SF-1159T",
+                         "colour":  "BLACK GREY",
+                         "image":  "/westgroupe/SF-1159T/676190685671_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018140",
+                         "code":  "M103-SF-1159T",
+                         "colour":  "CHARCOAL",
+                         "image":  "/westgroupe/SF-1159T/676190685718_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "M103-SF-1159T",
+                         "colour":  "CHARCOAL",
+                         "image":  "/westgroupe/SF-1159T/676190685756_W00.JPG"
+                     },
+                     {
+                         "size":  "55.018140",
+                         "code":  "S111-SF-1159T",
+                         "colour":  "GOLD",
+                         "image":  "/westgroupe/SF-1159T/676190685794_W00.JPG"
+                     },
+                     {
+                         "size":  "57.018145",
+                         "code":  "S111-SF-1159T",
+                         "colour":  "GOLD",
+                         "image":  "/westgroupe/SF-1159T/676190685831_W00.JPG"
+                     }
+                 ],
+    "sf-1187t":  [
+                     {
+                         "size":  "52.017135",
+                         "code":  "M100-SF-1187T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1187T/676190800272_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "M100-SF-1187T",
+                         "colour":  "BLACK GOLD",
+                         "image":  "/westgroupe/SF-1187T/676190800319_W00.JPG"
+                     },
+                     {
+                         "size":  "52.017135",
+                         "code":  "M107-SF-1187T",
+                         "colour":  "PURPLE ROSE GOLD",
+                         "image":  "/westgroupe/SF-1187T/676190800432_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "M107-SF-1187T",
+                         "colour":  "PURPLE ROSE GOLD",
+                         "image":  "/westgroupe/SF-1187T/676190800470_W00.JPG"
+                     },
+                     {
+                         "size":  "52.017135",
+                         "code":  "M116-SF-1187T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1187T/676190800357_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017140",
+                         "code":  "M116-SF-1187T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1187T/676190800395_W00.JPG"
+                     }
+                 ],
+    "sf-1205t":  [
+                     {
+                         "size":  "55.017140",
+                         "code":  "S200-SF-1205T",
+                         "colour":  "BLACK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1205T/881814546331_W00.JPG"
+                     },
+                     {
+                         "size":  "57.017145",
+                         "code":  "S200-SF-1205T",
+                         "colour":  "BLACK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1205T/881814546379_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017140",
+                         "code":  "S204-SF-1205T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1205T/881814546416_W00.JPG"
+                     },
+                     {
+                         "size":  "57.017145",
+                         "code":  "S204-SF-1205T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1205T/881814546454_W00.JPG"
+                     },
+                     {
+                         "size":  "55.017140",
+                         "code":  "S207-SF-1205T",
+                         "colour":  "PURPLE ROSE GOLD",
+                         "image":  "/westgroupe/SF-1205T/881814546492_W00.JPG"
+                     },
+                     {
+                         "size":  "57.017145",
+                         "code":  "S207-SF-1205T",
+                         "colour":  "PURPLE ROSE GOLD",
+                         "image":  "/westgroupe/SF-1205T/881814546539_W00.JPG"
+                     }
+                 ],
+    "sf-1173t":  [
+                     {
+                         "size":  "51.016135",
+                         "code":  "M200-SF-1173T",
+                         "colour":  "BLACK MAGENTA",
+                         "image":  "/westgroupe/SF-1173T/676190740707_W00.JPG"
+                     },
+                     {
+                         "size":  "53.016140",
+                         "code":  "M200-SF-1173T",
+                         "colour":  "BLACK MAGENTA",
+                         "image":  "/westgroupe/SF-1173T/676190740745_W00.JPG"
+                     },
+                     {
+                         "size":  "51.016135",
+                         "code":  "M203-SF-1173T",
+                         "colour":  "GREY ROSE",
+                         "image":  "/westgroupe/SF-1173T/676190740622_W00.JPG"
+                     },
+                     {
+                         "size":  "53.016140",
+                         "code":  "M203-SF-1173T",
+                         "colour":  "GREY ROSE",
+                         "image":  "/westgroupe/SF-1173T/676190740660_W00.JPG"
+                     },
+                     {
+                         "size":  "51.016135",
+                         "code":  "M204-SF-1173T",
+                         "colour":  "TEAL TURQUOISE",
+                         "image":  "/westgroupe/SF-1173T/676190740783_W00.JPG"
+                     },
+                     {
+                         "size":  "53.016140",
+                         "code":  "M204-SF-1173T",
+                         "colour":  "TEAL TURQUOISE",
+                         "image":  "/westgroupe/SF-1173T/676190740820_W00.JPG"
+                     }
+                 ],
+    "sf-1166t":  [
+                     {
+                         "size":  "51.017135",
+                         "code":  "M200-SF-1166T",
+                         "colour":  "BLACK ROSE GOLD",
+                         "image":  "/westgroupe/SF-1166T/676190716344_W00.JPG"
+                     },
+                     {
+                         "size":  "53.017140",
+                         "code":  "S204-SF-1166T",
+                         "colour":  "TEAL GOLD",
+                         "image":  "/westgroupe/SF-1166T/676190716467_W00.JPG"
+                     }
+                 ],
+    "sf-1197t":  [
+                     {
+                         "size":  "54.017135",
+                         "code":  "S201-SF-1197T",
+                         "colour":  "NAVY GOLD",
+                         "image":  "/westgroupe/SF-1197T/676190889291_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017140",
+                         "code":  "S201-SF-1197T",
+                         "colour":  "NAVY GOLD",
+                         "image":  "/westgroupe/SF-1197T/676190889338_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017135",
+                         "code":  "S203-SF-1197T",
+                         "colour":  "DARK GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1197T/676190889376_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017140",
+                         "code":  "S203-SF-1197T",
+                         "colour":  "DARK GREY ROSE GOLD",
+                         "image":  "/westgroupe/SF-1197T/676190889413_W00.JPG"
+                     },
+                     {
+                         "size":  "54.017135",
+                         "code":  "S207-SF-1197T",
+                         "colour":  "DARK MAUVE ROSE GOLD",
+                         "image":  "/westgroupe/SF-1197T/676190889451_W00.JPG"
+                     },
+                     {
+                         "size":  "56.017140",
+                         "code":  "S207-SF-1197T",
+                         "colour":  "DARK MAUVE ROSE GOLD",
+                         "image":  "/westgroupe/SF-1197T/676190889499_W00.JPG"
+                     }
+                 ]
+}
