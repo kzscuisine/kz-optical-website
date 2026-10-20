@@ -130,7 +130,7 @@ export default function Checkout(){
             <label>Phone<input name="phone"/></label>
             <label className="wide">Address<input name="address" required/></label>
             <label>City<input name="city" required/></label>
-            <label>Province<input name="province" defaultValue="BC" required/></label>
+            <label>Province<select name="province" defaultValue="BC" required><option value="BC">British Columbia (BC)</option></select></label>
             <label>Postal code<input name="postalCode" required/></label>
           </div>
 

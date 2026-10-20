@@ -22,7 +22,7 @@ export default function Eyeglasses() {
         <div className="completePairOffer">
           <strong>COMPLETE PAIR INCLUDED</strong>
           <span>Frame + Single-Vision Lenses ±3.00 + Standard HC Coating</span>
-          <small>FREE SHIPPING &nbsp; • &nbsp; Lens &amp; coating upgrades available &nbsp; • &nbsp; Delivery in 7–10 business days</small>
+          <small>FREE SHIPPING IN BC &nbsp; • &nbsp; Lens &amp; coating upgrades available &nbsp; • &nbsp; Delivery in 7–10 business days</small>
         </div>
       </div>
       <div className="shopGrid">

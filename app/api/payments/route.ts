@@ -44,6 +44,17 @@ export async function POST(request: Request) {
       );
     }
 
+    const province = String(customer.province ?? "").trim().toLowerCase();
+    if (province !== "bc" && province !== "british columbia") {
+      return NextResponse.json(
+        {
+          success: false,
+          message: "We currently deliver within British Columbia only.",
+        },
+        { status: 400 }
+      );
+    }
+
     let totalCents = 0;
     const trustedItems: any[] = [];
 

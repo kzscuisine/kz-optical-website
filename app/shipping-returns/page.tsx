@@ -8,7 +8,7 @@ export default function Page() {
       </div>
       <div className="prose">
         <h2>Shipping</h2>
-        <p>Shipping is free on every order within Canada. We do not charge a shipping fee at checkout.</p>
+        <p>Shipping is free on every order delivered within British Columbia. We do not charge a shipping fee at checkout. We currently deliver within British Columbia only. If you are outside BC, please contact us before ordering.</p>
         <p>Your glasses are made to order. Please allow 7–10 business days for delivery after your order is confirmed. Delivery time can vary with your location and with the carrier.</p>
         <p>We will email you when your order ships. If your order is delayed, we will let you know.</p>
 

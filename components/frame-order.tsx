@@ -88,7 +88,7 @@ export default function FrameOrder({ product }: { product: Product }) {
           </fieldset>
           <div className="priceBox"><span>Complete pair</span><b>{total === null ? "Unavailable" : money(total)}</b></div>
           <button className="dark button" onClick={addItem} disabled={total === null}>Add to Cart</button>
-          <p className="fine">Free shipping. Prices in CAD. Availability is confirmed before your order is fulfilled.</p>
+          <p className="fine">Free shipping within British Columbia. Prices in CAD. Availability is confirmed before your order is fulfilled.</p>
         </div>
       </div>
     </div>

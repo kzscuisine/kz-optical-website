@@ -16,7 +16,7 @@ export default function Page() {
         <p>We sell prescription eyeglasses, made up of a frame and prescription lenses. We do not sell lenses on their own, and we do not provide eye exams or medical advice. Frame photographs show a representative colour. Actual colours and finishes may vary slightly from your screen.</p>
 
         <h2>Prices and payment</h2>
-        <p>All prices are in Canadian dollars. The price shown for a pair includes the frame, the lens type and the coating you select. Shipping within Canada is free.</p>
+        <p>All prices are in Canadian dollars. The price shown for a pair includes the frame, the lens type and the coating you select. Shipping within British Columbia is free, and we currently deliver within British Columbia only.</p>
         <p>Payment is taken by card when you place your order and is processed securely by Square. We never see or store your full card number.</p>
         <p>If we discover a pricing error, we may cancel the order and refund you in full, or contact you to confirm the correct price before going ahead.</p>
 
