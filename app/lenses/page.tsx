@@ -6,7 +6,7 @@ export default function Lenses() {
     <main className="page narrow">
       <div className="pagehead">
         <small>YOUR GUIDE TO PRESCRIPTION LENSES</small>
-        <h1>Understanding Your Lens Options</h1>
+        <h1>Lens Guide</h1>
         <p>
           Choosing the right lenses is an important part of creating comfortable,
           clear vision. Explore the options below before selecting your frames.
