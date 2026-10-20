@@ -5,6 +5,21 @@ import { collections, collectionBySlug } from "../../../lib/collections";
 import { framePrice } from "../../../lib/pricing";
 import { money } from "../../../lib/store-config";
 
+const brandPhotos: Record<string, string[]> = {
+  "Nano Glow": [
+    "/westgroupe/02-glow-fanboy-nao317-20-fangame-nao303-19-pixel-nao307-16.jpg",
+    "/westgroupe/03-glow-sprite-nao306-07-camper-nao304-23.jpg",
+  ],
+  "Nano Indestructible": [
+    "/westgroupe/04-indestructible-loading-3-0-nao327-01-02.jpg",
+    "/westgroupe/05-indestructible-meta-3-0-nao341-04.jpg",
+  ],
+  "Nano Baby": [
+    "/westgroupe/01-bunny-3-0-nao400-05.jpg",
+    "/westgroupe/06-little-chick-3-0-nao405-01.jpg",
+  ],
+};
+
 export function generateStaticParams() {
   return collections.map((c) => ({ slug: c.slug }));
 }
@@ -27,6 +42,13 @@ export default async function CollectionPage({ params }: { params: Promise<{ slu
       {sections.map(({ brand, items }) => (
         <section key={brand}>
           {collection.brands.length > 1 && <h2 className="sectionTitle">{brand}</h2>}
+          {brandPhotos[brand] && (
+            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))", gap: 16, margin: "0 0 28px" }}>
+              {brandPhotos[brand].map((src) => (
+                <img key={src} src={src} alt={brand + " eyewear"} style={{ width: "100%", height: 340, objectFit: "cover" }} />
+              ))}
+            </div>
+          )}
           <div className="shopGrid">
             {items.map((p) => {
               const price = framePrice(p);
