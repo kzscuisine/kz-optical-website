@@ -10,10 +10,6 @@ const brandPhotos: Record<string, string[]> = {
     "/westgroupe/02-glow-fanboy-nao317-20-fangame-nao303-19-pixel-nao307-16.jpg",
     "/westgroupe/03-glow-sprite-nao306-07-camper-nao304-23.jpg",
   ],
-  "Nano Indestructible": [
-    "/westgroupe/04-indestructible-loading-3-0-nao327-01-02.jpg",
-    "/westgroupe/05-indestructible-meta-3-0-nao341-04.jpg",
-  ],
   "Nano Baby": [
     "/westgroupe/01-bunny-3-0-nao400-05.jpg",
     "/westgroupe/06-little-chick-3-0-nao405-01.jpg",

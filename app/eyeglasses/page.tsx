@@ -5,7 +5,7 @@ import { framePrice } from "../../lib/pricing";
 import { money } from "../../lib/store-config";
 
 const photos: Record<string, string> = {
-  "superflex": "/westgroupe/12-sf-660-s402-sept-2024.jpg",
+  "superflex": "/westgroupe/13-sf-662-s312-nov-2024-sf-674-s401-sept.jpg",
   "superflex-kids": "/westgroupe/15-sfk-334-s209-sfk-335-s303-june.jpg",
   "superflex-titan": "/westgroupe/11-sf-1188t-m102-may-sf-1187t-m107-mar.jpg",
   "nano": "/westgroupe/05-indestructible-meta-3-0-nao341-04.jpg",
