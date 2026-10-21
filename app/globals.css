@@ -76,3 +76,4 @@
 .productDetail .detailImage{display:block;max-width:100%;width:100%;height:auto;object-fit:contain}
 .productDetail .fine{position:static!important;margin-top:12px!important}
 @media(max-width:768px){.productDetail{grid-template-columns:1fr!important}.productDetail>div:first-child,.productDetail>div:nth-child(2){grid-column:1!important;grid-row:auto!important}}
+.logo{display:inline-flex;align-items:baseline;letter-spacing:-1px}.logo .lite{display:inline-flex;align-items:baseline}.logo svg{height:1.1em;width:auto;overflow:visible;margin:0 .02em 0 .06em;position:relative;top:.25em}
