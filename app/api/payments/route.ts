@@ -4,6 +4,7 @@ import { randomUUID } from "crypto";
 import { findProduct, findSku } from "../../../lib/catalogue";
 import { framePrice } from "../../../lib/pricing";
 import { lensTypes } from "../../../lib/lens-config";
+import { buildPrescriptionLink } from "../../../lib/signed-link";
 
 const square = new SquareClient({
   token: process.env.SQUARE_ACCESS_TOKEN!,
@@ -171,6 +172,19 @@ export async function POST(request: Request) {
 
     let emailSent = false;
 
+    const origin = new URL(request.url).origin;
+    const fileMatch = String(rx ?? "").match(
+      /prescriptions\/[a-f0-9-]{36}\.(?:pdf|jpg|png)/
+    );
+    let prescriptionLink: string | null = null;
+    try {
+      prescriptionLink = fileMatch
+        ? buildPrescriptionLink(origin, fileMatch[0])
+        : null;
+    } catch (linkError) {
+      console.error("Prescription link error:", linkError);
+    }
+
     try {
       const resendKey = process.env.RESEND_API_KEY;
 
@@ -249,6 +263,11 @@ export async function POST(request: Request) {
 
                 <h2>Prescription</h2>
                 <p>${esc(rx || "To be provided separately")}</p>
+                ${
+                  prescriptionLink
+                    ? `<p><a href="${esc(prescriptionLink)}" style="display:inline-block;padding:10px 16px;background:#111;color:#fff;text-decoration:none;border-radius:4px;">View uploaded prescription</a><br><small>Private link, works for 90 days.</small></p>`
+                    : ""
+                }
 
                 <h2>Payment</h2>
                 <p>
@@ -270,6 +289,107 @@ export async function POST(request: Request) {
       }
     } catch (emailError) {
       console.error("KZ Optical order email error:", emailError);
+    }
+
+    // Customer confirmation email (failure never affects the order).
+    try {
+      const resendKey = process.env.RESEND_API_KEY;
+      const customerEmail = String(customer.email ?? "").trim();
+      const validEmail = /^[^\s@<>"]+@[^\s@<>"]+\.[^\s@<>"]+$/.test(
+        customerEmail
+      );
+
+      if (resendKey && validEmail) {
+        const rows = trustedItems
+          .map(
+            (item) => `
+              <tr>
+                <td style="padding:8px;border:1px solid #ddd;">
+                  ${esc(item.brand)} — ${esc(item.name)}
+                  ${item.model ? `<br>${esc(item.model)}` : ""}
+                  ${item.colour ? `<br>Colour: ${esc(item.colour)}` : ""}
+                  ${item.size ? `<br>Size: ${esc(item.size)} mm` : ""}
+                </td>
+                <td style="padding:8px;border:1px solid #ddd;">
+                  ${esc(item.lens)}<br>${esc(item.upgrade)}
+                </td>
+                <td style="padding:8px;border:1px solid #ddd;">
+                  ${esc(item.qty)}
+                </td>
+                <td style="padding:8px;border:1px solid #ddd;">
+                  $${((item.unitCents * item.qty) / 100).toFixed(2)}
+                </td>
+              </tr>`
+          )
+          .join("");
+
+        const rxNote = fileMatch
+          ? "We received your prescription file."
+          : String(rx ?? "").includes("SPH")
+            ? "We received the prescription details you entered."
+            : "We will contact you for your prescription before making your glasses.";
+
+        const customerResponse = await fetch(
+          "https://api.resend.com/emails",
+          {
+            method: "POST",
+            headers: {
+              Authorization: `Bearer ${resendKey}`,
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+              from: "KZ Optical <orders@kzoptical.ca>",
+              to: [customerEmail],
+              reply_to: "kzdknss@gmail.com",
+              subject: `Your KZ Optical order ${orderNumber}`,
+              html: `
+                <div style="font-family:Arial,sans-serif;max-width:640px;margin:auto;color:#111;">
+                  <h1>Thank you for your order</h1>
+                  <p>Hi ${esc(customer.firstName)}, your payment was received and your order is with us.</p>
+                  <p><b>Order number:</b> ${esc(orderNumber)}</p>
+
+                  <table style="border-collapse:collapse;width:100%;">
+                    <tr>
+                      <th style="padding:8px;border:1px solid #ddd;text-align:left;">Frame</th>
+                      <th style="padding:8px;border:1px solid #ddd;text-align:left;">Lenses</th>
+                      <th style="padding:8px;border:1px solid #ddd;">Qty</th>
+                      <th style="padding:8px;border:1px solid #ddd;">Price</th>
+                    </tr>
+                    ${rows}
+                  </table>
+
+                  <p>
+                    <b>Total paid:</b> $${(totalCents / 100).toFixed(2)} CAD<br>
+                    <b>Shipping:</b> FREE within British Columbia
+                  </p>
+
+                  <h3>Delivery address</h3>
+                  <p>
+                    ${esc(customer.firstName)} ${esc(customer.lastName)}<br>
+                    ${esc(customer.address)}<br>
+                    ${esc(customer.city)}, ${esc(customer.province)} ${esc(customer.postalCode)}
+                  </p>
+
+                  <h3>What happens next</h3>
+                  <p>${esc(rxNote)} We confirm that your frame is available before your glasses are made. If an item turns out to be unavailable, we will contact you and refund you.</p>
+
+                  <p>Questions? Just reply to this email, or call 604-765-0400.</p>
+                  <p>— KZ Optical</p>
+                </div>
+              `,
+            }),
+          }
+        );
+
+        if (!customerResponse.ok) {
+          console.error(
+            "Resend customer email error:",
+            await customerResponse.text()
+          );
+        }
+      }
+    } catch (customerEmailError) {
+      console.error("KZ Optical customer email error:", customerEmailError);
     }
 
     return NextResponse.json({
