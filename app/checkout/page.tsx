@@ -219,9 +219,12 @@ export default function Checkout(){
             <p className="fine">Upload PDF, JPG or PNG (maximum 4 MB). Files are stored privately.</p>
             <input type="file" name="prescriptionFile" accept=".pdf,.jpg,.jpeg,.png" ref={fileRef} onChange={(e)=>setFileName(e.target.files?.[0]?.name || "")} />
             {fileName && (
-              <button type="button" onClick={()=>{ if(fileRef.current) fileRef.current.value=""; setFileName(""); setUploadError(""); }} style={{marginTop:8,background:"none",border:"none",textDecoration:"underline",cursor:"pointer",padding:0,font:"inherit",color:"#b91c1c"}}>
-                Remove selected file ({fileName})
-              </button>
+              <div style={{marginTop:10,display:"flex",alignItems:"center",gap:12,flexWrap:"wrap"}}>
+                <span style={{color:"#166534"}}>&#10003; File attached: {fileName}</span>
+                <button type="button" onClick={()=>{ if(fileRef.current) fileRef.current.value=""; setFileName(""); setUploadError(""); }} style={{background:"#fff",border:"1px solid #9ca3af",borderRadius:4,cursor:"pointer",padding:"5px 12px",font:"inherit",fontSize:14,color:"#374151"}}>
+                  Remove file
+                </button>
+              </div>
             )}
           </div>
           <label>
