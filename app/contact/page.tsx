@@ -1,3 +1,4 @@
+export const metadata = { title: "Contact", description: "Contact KZ Optical by email or phone with questions about frames, lenses or your order.", alternates: { canonical: "/contact" } };
 export default function Contact() {
   return (
     <main className="page narrow">

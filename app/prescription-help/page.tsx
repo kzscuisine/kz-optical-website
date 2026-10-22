@@ -1,3 +1,4 @@
+export const metadata = { title: "Prescription Help", description: "How to read your prescription and upload it when ordering.", alternates: { canonical: "/prescription-help" } };
 export default function Page() {
   return (
     <main className="page narrow">

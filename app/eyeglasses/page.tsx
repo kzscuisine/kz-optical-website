@@ -4,6 +4,9 @@ import { catalogue } from "../../lib/catalogue";
 import { framePrice } from "../../lib/pricing";
 import { money } from "../../lib/store-config";
 
+export const metadata = { title: "Prescription Eyeglasses", description: "Shop Superflex, Superflex Kids, Titan, Nano Vista, One True Pair and Stepper. Complete prescription glasses from $99, free shipping in BC.", alternates: { canonical: "/eyeglasses" } };
+
+
 const photos: Record<string, string> = {
   "superflex": "/westgroupe/13-sf-662-s312-nov-2024-sf-674-s401-sept.jpg",
   "superflex-kids": "/westgroupe/15-sfk-334-s209-sfk-335-s303-june.jpg",

@@ -1,3 +1,4 @@
+export const metadata = { title: "Shipping and Returns", description: "Free shipping within British Columbia, remake window and returns information.", alternates: { canonical: "/shipping-returns" } };
 export default function Page() {
   return (
     <main className="page narrow">

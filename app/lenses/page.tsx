@@ -1,5 +1,8 @@
-﻿import Link from "next/link";
+import Link from "next/link";
 import { lensTypes } from "../../lib/lens-config";
+
+export const metadata = { title: "Lens Guide", description: "Standard single vision, progressive and bifocal lenses explained, with coating options and clear pricing.", alternates: { canonical: "/lenses" } };
+
 
 export default function Lenses() {
   return (

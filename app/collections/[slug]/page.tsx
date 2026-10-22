@@ -20,6 +20,17 @@ export function generateStaticParams() {
   return collections.map((c) => ({ slug: c.slug }));
 }
 
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const c = collectionBySlug(slug);
+  if (!c) return {};
+  return {
+    title: `${c.title} Prescription Glasses`,
+    description: `${c.blurb} Complete prescription glasses with free shipping in British Columbia.`,
+    alternates: { canonical: `/collections/${c.slug}` },
+  };
+}
+
 export default async function CollectionPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const collection = collectionBySlug(slug);

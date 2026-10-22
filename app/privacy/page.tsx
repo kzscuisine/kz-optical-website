@@ -1,3 +1,4 @@
+export const metadata = { title: "Privacy Policy", description: "How KZ Optical handles your personal and prescription information.", alternates: { canonical: "/privacy" } };
 export default function Page() {
   return (
     <main className="page narrow">

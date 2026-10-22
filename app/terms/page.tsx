@@ -1,3 +1,4 @@
+export const metadata = { title: "Terms of Sale", description: "Terms of sale for KZ Optical online orders.", alternates: { canonical: "/terms" } };
 export default function Page() {
   return (
     <main className="page narrow">
