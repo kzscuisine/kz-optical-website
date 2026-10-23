@@ -23,7 +23,7 @@ export async function GET() {
     if (price === null) continue;
     const kids = KIDS.includes(p.brand);
     const g = String(p.gender ?? "").toLowerCase();
-    const gender = ["male", "female", "unisex"].includes(g) ? g : "unisex";
+    const gender = kids ? "unisex" : ["male", "female", "unisex"].includes(g) ? g : "unisex";
     for (const c of p.colours) {
       if (!c.image) continue;
       const title = clean(`${p.brand} ${p.model} ${c.name} prescription glasses`).slice(0, 150);
