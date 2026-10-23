@@ -14,7 +14,7 @@ export async function GET() {
   const header = [
     "id", "title", "description", "link", "image_link", "availability", "price",
     "brand", "condition", "identifier_exists", "item_group_id", "google_product_category",
-    "color", "age_group", "gender", "shipping",
+    "color", "age_group", "gender",
   ];
   const rows: string[] = [header.join("\t")];
 
@@ -46,7 +46,6 @@ export async function GET() {
         clean(c.name),
         kids ? "kids" : "adult",
         gender,
-        "CA:BC:Standard:0.00 CAD",
       ].join("\t"));
     }
   }
